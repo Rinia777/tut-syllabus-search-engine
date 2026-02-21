@@ -45,7 +45,7 @@ def fetch_and_index():
                         "numberOfCredits": data.get("numberOfCredits"),
                         "classroom": data.get("classroom", []),
                         # 講義詳細（ネスト構造）もすべて取得
-                        "courseDetails": data.get("courceDetails", {}), 
+ 
                         "updateAt": data.get("updateAt"),
                         # 検索用に追加したカスタムフィールド
                         "search_times": formatted_periods 
