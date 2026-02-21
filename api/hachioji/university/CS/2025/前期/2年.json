@@ -1,0 +1,2407 @@
+[
+  {
+    "lectureCode": "11040C1",
+    "courseName": "情報リテラシー[A]CS",
+    "lecturer": [
+      "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11040C2",
+    "courseName": "情報リテラシー[B]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11041C1",
+    "courseName": "情報リテラシー演習[A]CS",
+    "lecturer": [
+      "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "未定(所属なし)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１",
+      "講義棟Ａ２０２",
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041C2",
+    "courseName": "情報リテラシー演習[B]CS",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１",
+      "講義棟Ａ２０２",
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11042C1",
+    "courseName": "数学概論[A]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11042C2",
+    "courseName": "数学概論[B]CS",
+    "lecturer": [
+      "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11043C1",
+    "courseName": "数学基礎[A]CS",
+    "lecturer": [
+      "井野海(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11043C2",
+    "courseName": "数学基礎[B]CS",
+    "lecturer": [
+      "白川貴志(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C01",
+    "courseName": "フレッシャーズゼミI[1]CS",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C02",
+    "courseName": "フレッシャーズゼミI[2]CS",
+    "lecturer": [
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C03",
+    "courseName": "フレッシャーズゼミI[3]CS",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C04",
+    "courseName": "フレッシャーズゼミI[4]CS",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C05",
+    "courseName": "フレッシャーズゼミI[5]CS",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C06",
+    "courseName": "フレッシャーズゼミI[6]CS",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C07",
+    "courseName": "フレッシャーズゼミI[7]CS",
+    "lecturer": [
+      "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C08",
+    "courseName": "フレッシャーズゼミI[8]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C09",
+    "courseName": "フレッシャーズゼミI[9]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C10",
+    "courseName": "フレッシャーズゼミI[10]CS",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C11",
+    "courseName": "フレッシャーズゼミI[11]CS",
+    "lecturer": [
+      "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C12",
+    "courseName": "フレッシャーズゼミI[12]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C13",
+    "courseName": "フレッシャーズゼミI[13]CS",
+    "lecturer": [
+      "瀬之口潤輔(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C14",
+    "courseName": "フレッシャーズゼミI[14]CS",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C15",
+    "courseName": "フレッシャーズゼミI[15]CS",
+    "lecturer": [
+      "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C16",
+    "courseName": "フレッシャーズゼミI[16]CS",
+    "lecturer": [
+      "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11058C1",
+    "courseName": "インターンシップI[CS]",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C10101",
+    "courseName": "線形代数I[AS1]CS",
+    "lecturer": [
+      "亀井聡(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10102",
+    "courseName": "線形代数I[AS2]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10103",
+    "courseName": "線形代数I[AS3]CS",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10104",
+    "courseName": "線形代数I[AS4]CS",
+    "lecturer": [
+      "福田孔達(兼任講師)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10105",
+    "courseName": "線形代数I[BS1]CS",
+    "lecturer": [
+      "亀井聡(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10106",
+    "courseName": "線形代数I[BS2]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10107",
+    "courseName": "線形代数I[BS3]CS",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10108",
+    "courseName": "線形代数I[BS4]CS",
+    "lecturer": [
+      "福田孔達(兼任講師)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10301",
+    "courseName": "マーケティングとITビジネス",
+    "lecturer": [
+      "瀬之口潤輔(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C10601",
+    "courseName": "コンピュータ概論I[A]",
+    "lecturer": [
+      "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3",
+      "水3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "研究棟Ａ４０２",
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10602",
+    "courseName": "コンピュータ概論I[B]",
+    "lecturer": [
+      "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3",
+      "水3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "研究棟Ａ４０３",
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10801",
+    "courseName": "プログラミング基礎I[A]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "研究棟Ａ４０２",
+      "研究棟Ａ４０３",
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C10802",
+    "courseName": "プログラミング基礎I[B]CS",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "未定(所属なし)",
+      "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "研究棟Ａ４０２",
+      "研究棟Ａ４０３",
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C11001",
+    "courseName": "WebプログラミングI[AG]",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｃ１００３",
+      "片柳研究所Ｃ１００４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C11002",
+    "courseName": "WebプログラミングI[BT]",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｃ１００３",
+      "片柳研究所Ｃ１００４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C11003",
+    "courseName": "WebプログラミングI[AM]",
+    "lecturer": [
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｃ１００３",
+      "片柳研究所Ｃ１００４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C11004",
+    "courseName": "WebプログラミングI[BF]",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｃ１００３",
+      "片柳研究所Ｃ１００４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20101",
+    "courseName": "データと統計[1]",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C20102",
+    "courseName": "データと統計[2]",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C20103",
+    "courseName": "データと統計[3]",
+    "lecturer": [
+      "亀井聡(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C20201",
+    "courseName": "線形代数II[S1]CS",
+    "lecturer": [
+      "亀井聡(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20202",
+    "courseName": "線形代数II[S2]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20203",
+    "courseName": "線形代数II[S3]CS",
+    "lecturer": [
+      "松永栄一(兼任講師)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20301",
+    "courseName": "微分積分II[S1]CS",
+    "lecturer": [
+      "亀井聡(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20302",
+    "courseName": "微分積分II[S2]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20303",
+    "courseName": "微分積分II[S3]CS",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C20701",
+    "courseName": "経営戦略デザイン",
+    "lecturer": [
+      "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C20801",
+    "courseName": "C言語プログラミングI",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21001",
+    "courseName": "JavaプログラミングI",
+    "lecturer": [
+      "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "未定(所属なし)",
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21201",
+    "courseName": "データビジュアライゼーション",
+    "lecturer": [
+      "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｃ１００１",
+      "片柳研究所Ｃ１００２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21401",
+    "courseName": "コンピュータアーキテクチャ[前期]",
+    "lecturer": [
+      "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C21501",
+    "courseName": "ソフトウエアエンジニアリング[前期]",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C21601",
+    "courseName": "情報セキュリティ[前期]",
+    "lecturer": [
+      "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21701",
+    "courseName": "インターネット[前期]",
+    "lecturer": [
+      "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21901",
+    "courseName": "ヒューマンインターフェイス[前期]",
+    "lecturer": [
+      "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C22101",
+    "courseName": "自然言語処理[前期]",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22201",
+    "courseName": "データ構造とアルゴリズム[前期]",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C22301",
+    "courseName": "人工知能[前期]",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22401",
+    "courseName": "データベース[前期]",
+    "lecturer": [
+      "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C22601",
+    "courseName": "データインテリジェンス",
+    "lecturer": [
+      "瀬之口潤輔(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22801",
+    "courseName": "プロジェクト演習I[テーマA・B]CS",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22802",
+    "courseName": "プロジェクト演習I[テーマB・A]CS",
+    "lecturer": [
+      "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22803",
+    "courseName": "プロジェクト演習I[テーマC・D]CS",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22804",
+    "courseName": "プロジェクト演習I[テーマD・C]CS",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C31001",
+    "courseName": "プログラミングA1[2023以前]",
+    "lecturer": [
+      "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "研究棟Ａ３０２",
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C31201",
+    "courseName": "プログラミングB1[2023以前]",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C31401",
+    "courseName": "プログラミングC1[2023以前]",
+    "lecturer": [
+      "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "未定(所属なし)",
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義・演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C31701",
+    "courseName": "オペレーティングシステム[前期]2023以前",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C32001",
+    "courseName": "データサイエンス[前期]2023以前",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C32101",
+    "courseName": "計算アルゴリズム[前期]2023以前",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C32201",
+    "courseName": "認知科学[前期]2023以前",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  }
+]

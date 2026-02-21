@@ -1,0 +1,7263 @@
+[
+  {
+    "lectureCode": "L20401",
+    "courseName": "哲学[木1]CSES",
+    "lecturer": [
+      "山中健義(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L20402",
+    "courseName": "哲学[木2]BSMSES",
+    "lecturer": [
+      "山中健義(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科,応用生物学部応用生物学科,メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L20501",
+    "courseName": "心理学[木1]CSES",
+    "lecturer": [
+      "沼田真美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L20502",
+    "courseName": "心理学[木2]BSMSES",
+    "lecturer": [
+      "沼田真美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L20601",
+    "courseName": "宗教学[木1]CSES",
+    "lecturer": [
+      "髙瀬航平(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L20602",
+    "courseName": "宗教学[木2]BSMSES",
+    "lecturer": [
+      "髙瀬航平(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L20901",
+    "courseName": "社会心理学[月4]",
+    "lecturer": [
+      "鈴木万希枝(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L20902",
+    "courseName": "社会心理学[木3]",
+    "lecturer": [
+      "鈴木万希枝(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L20903",
+    "courseName": "社会心理学[木4]",
+    "lecturer": [
+      "鈴木万希枝(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L21201",
+    "courseName": "日本文化論[火1]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L21202",
+    "courseName": "日本文化論[火2]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30301",
+    "courseName": "経済学[木1]CSES",
+    "lecturer": [
+      "中嶌剛(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L30302",
+    "courseName": "経済学[木2]BSMSES",
+    "lecturer": [
+      "中嶌剛(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30501",
+    "courseName": "国際関係論[木3]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30502",
+    "courseName": "国際関係論[木4]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30601",
+    "courseName": "現代社会論[月5]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30602",
+    "courseName": "現代社会論[木3]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30603",
+    "courseName": "現代社会論[木4]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L30701",
+    "courseName": "地域共生論[前期金2]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L40101",
+    "courseName": "物理の世界[月1]",
+    "lecturer": [
+      "須田拓馬(教養学環)",
+      "青山哲也(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L40102",
+    "courseName": "物理の世界[月2]",
+    "lecturer": [
+      "須田拓馬(教養学環)",
+      "青山哲也(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L40201",
+    "courseName": "化学の世界[月1]",
+    "lecturer": [
+      "岡本瑞穂(応用生物学部応用生物学科)",
+      "渡辺秀夫(兼任講師)",
+      "杉本岩雄(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L40202",
+    "courseName": "化学の世界[月2]",
+    "lecturer": [
+      "岡本瑞穂(応用生物学部応用生物学科)",
+      "渡辺秀夫(兼任講師)",
+      "杉本岩雄(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L40301",
+    "courseName": "生物の世界[月1]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L40302",
+    "courseName": "生物の世界[月2]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L40401",
+    "courseName": "天文の世界[月1]",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L40402",
+    "courseName": "天文の世界[月2]",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L40501",
+    "courseName": "環境と科学[前期木4]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50101",
+    "courseName": "健康と科学[木1]CSES",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50102",
+    "courseName": "健康と科学[木2]BSMSES",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,メディア学部メディア学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50211",
+    "courseName": "ウェルネス実技I[火1フィットネス総合]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50212",
+    "courseName": "ウェルネス実技I[火1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50213",
+    "courseName": "ウェルネス実技I[火1コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50214",
+    "courseName": "ウェルネス実技I[火1テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50215",
+    "courseName": "ウェルネス実技I[火1ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50216",
+    "courseName": "ウェルネス実技I[火1テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50221",
+    "courseName": "ウェルネス実技I[火2フィットネス総合]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50222",
+    "courseName": "ウェルネス実技I[火1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50223",
+    "courseName": "ウェルネス実技I[火2コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50224",
+    "courseName": "ウェルネス実技I[火2テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50225",
+    "courseName": "ウェルネス実技I[火2ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50226",
+    "courseName": "ウェルネス実技I[火2テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50232",
+    "courseName": "ウェルネス実技I[火1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50233",
+    "courseName": "ウェルネス実技I[火3コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50234",
+    "courseName": "ウェルネス実技I[火3テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50235",
+    "courseName": "ウェルネス実技I[火3ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50236",
+    "courseName": "ウェルネス実技I[火3テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50241",
+    "courseName": "ウェルネス実技I[金1ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50242",
+    "courseName": "ウェルネス実技I[金1トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50243",
+    "courseName": "ウェルネス実技I[金1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50244",
+    "courseName": "ウェルネス実技I[金1バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50245",
+    "courseName": "ウェルネス実技I[金1卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50246",
+    "courseName": "ウェルネス実技I[金1バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50251",
+    "courseName": "ウェルネス実技I[金2ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50252",
+    "courseName": "ウェルネス実技I[金2トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50253",
+    "courseName": "ウェルネス実技I[金1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50254",
+    "courseName": "ウェルネス実技I[金2バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50255",
+    "courseName": "ウェルネス実技I[金2卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50256",
+    "courseName": "ウェルネス実技I[金2バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50261",
+    "courseName": "ウェルネス実技I[金3ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50262",
+    "courseName": "ウェルネス実技I[金3トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50263",
+    "courseName": "ウェルネス実技I[金1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50264",
+    "courseName": "ウェルネス実技I[金3バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50265",
+    "courseName": "ウェルネス実技I[金3卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50266",
+    "courseName": "ウェルネス実技I[金3バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50501",
+    "courseName": "集中実技II[野外活動]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50611",
+    "courseName": "スポーツ実技I[金1ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50612",
+    "courseName": "スポーツ実技I[金1トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50613",
+    "courseName": "スポーツ実技I[金1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50614",
+    "courseName": "スポーツ実技I[金1バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50615",
+    "courseName": "スポーツ実技I[金1卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50616",
+    "courseName": "スポーツ実技I[金1バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50621",
+    "courseName": "スポーツ実技I[金2ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50622",
+    "courseName": "スポーツ実技I[金2トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50623",
+    "courseName": "スポーツ実技I[金2キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50624",
+    "courseName": "スポーツ実技I[金2バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50625",
+    "courseName": "スポーツ実技I[金2卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50626",
+    "courseName": "スポーツ実技I[金2バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50631",
+    "courseName": "スポーツ実技I[金3ボディコンディショニング]",
+    "lecturer": [
+      "藤平杏子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50632",
+    "courseName": "スポーツ実技I[金3トレーニング]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50633",
+    "courseName": "スポーツ実技I[金3キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50634",
+    "courseName": "スポーツ実技I[金3バドミントン]",
+    "lecturer": [
+      "植松雄太(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50635",
+    "courseName": "スポーツ実技I[金3卓球]",
+    "lecturer": [
+      "八幡光哉(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50636",
+    "courseName": "スポーツ実技I[金3バレーボール]",
+    "lecturer": [
+      "山本智貴(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50811",
+    "courseName": "スポーツ実技III[火1フィットネス総合]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50812",
+    "courseName": "スポーツ実技III[火1キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火1"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50813",
+    "courseName": "スポーツ実技III[火1コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50814",
+    "courseName": "スポーツ実技III[火1テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50815",
+    "courseName": "スポーツ実技III[火1ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50816",
+    "courseName": "スポーツ実技III[火1テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L50821",
+    "courseName": "スポーツ実技III[火2フィットネス総合]",
+    "lecturer": [
+      "金指みの利(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50822",
+    "courseName": "スポーツ実技III[火2キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50823",
+    "courseName": "スポーツ実技III[火2コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50824",
+    "courseName": "スポーツ実技III[火2テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50825",
+    "courseName": "スポーツ実技III[火2ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50826",
+    "courseName": "スポーツ実技III[火2テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50832",
+    "courseName": "スポーツ実技III[火3キンボール・フライングディスク・ノルディックウォーキング]",
+    "lecturer": [
+      "志村広子"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50833",
+    "courseName": "スポーツ実技III[火3コーフボール・ユニホック]",
+    "lecturer": [
+      "ユンヒョンチョル(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50834",
+    "courseName": "スポーツ実技III[火3テニス・バレー・バドミントン]",
+    "lecturer": [
+      "後藤肇(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50835",
+    "courseName": "スポーツ実技III[火3ゴルフ]",
+    "lecturer": [
+      "岩田真一(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L50836",
+    "courseName": "スポーツ実技III[火3テニス]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実技科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L601R01",
+    "courseName": "EnglishSLI[再1]",
+    "lecturer": [
+      "日比野千佳(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L601R02",
+    "courseName": "EnglishSLI[再2]",
+    "lecturer": [
+      "カイC(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L601R03",
+    "courseName": "EnglishSLI[再3]",
+    "lecturer": [
+      "日比野千佳(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L603R01",
+    "courseName": "EnglishRWI[再1]",
+    "lecturer": [
+      "吉田俊実(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L603R02",
+    "courseName": "EnglishRWI[再2]",
+    "lecturer": [
+      "カイC(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L603R03",
+    "courseName": "EnglishRWI[再3]",
+    "lecturer": [
+      "吉田俊実(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B01",
+    "courseName": "IntegratedEnglishI[1]BS電電応化",
+    "lecturer": [
+      "清水友子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B02",
+    "courseName": "IntegratedEnglishI[2]BS電電応化",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B03",
+    "courseName": "IntegratedEnglishI[3]BS電電応化",
+    "lecturer": [
+      "大塚節生(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B04",
+    "courseName": "IntegratedEnglishI[4]BS電電応化",
+    "lecturer": [
+      "岩崎剛毅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B05",
+    "courseName": "IntegratedEnglishI[5]BS電電応化",
+    "lecturer": [
+      "吉田俊実(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B06",
+    "courseName": "IntegratedEnglishI[6]BS電電応化",
+    "lecturer": [
+      "三部祐治(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B07",
+    "courseName": "IntegratedEnglishI[7]BS電電応化",
+    "lecturer": [
+      "朝熊悠(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B08",
+    "courseName": "IntegratedEnglishI[8]BS電電応化",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B09",
+    "courseName": "IntegratedEnglishI[9]BS電電応化",
+    "lecturer": [
+      "佐藤亜紀(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B10",
+    "courseName": "IntegratedEnglishI[10]BS電電応化",
+    "lecturer": [
+      "岡本進(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B11",
+    "courseName": "IntegratedEnglishI[11]BS電電応化",
+    "lecturer": [
+      "浦聡美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B12",
+    "courseName": "IntegratedEnglishI[12]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B13",
+    "courseName": "IntegratedEnglishI[13]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０７"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B14",
+    "courseName": "IntegratedEnglishI[14]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B15",
+    "courseName": "IntegratedEnglishI[15]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１０"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605B16",
+    "courseName": "IntegratedEnglishI[16]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C01",
+    "courseName": "IntegratedEnglishI[1]CS機械",
+    "lecturer": [
+      "原田英子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C02",
+    "courseName": "IntegratedEnglishI[2]CS機械",
+    "lecturer": [
+      "岩永祥恵(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C03",
+    "courseName": "IntegratedEnglishI[3]CS機械",
+    "lecturer": [
+      "奈古明子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C04",
+    "courseName": "IntegratedEnglishI[4]CS機械",
+    "lecturer": [
+      "シルベスター，M(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C05",
+    "courseName": "IntegratedEnglishI[5]CS機械",
+    "lecturer": [
+      "鈴木希(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C06",
+    "courseName": "IntegratedEnglishI[6]CS機械",
+    "lecturer": [
+      "山本三穂(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C07",
+    "courseName": "IntegratedEnglishI[7]CS機械",
+    "lecturer": [
+      "青木美奈(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C08",
+    "courseName": "IntegratedEnglishI[8]CS機械",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C09",
+    "courseName": "IntegratedEnglishI[9]CS機械",
+    "lecturer": [
+      "近藤紀彦(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C10",
+    "courseName": "IntegratedEnglishI[10]CS機械",
+    "lecturer": [
+      "閔由眞(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C11",
+    "courseName": "IntegratedEnglishI[11]CS機械",
+    "lecturer": [
+      "尾関浩司(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C12",
+    "courseName": "IntegratedEnglishI[12]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C13",
+    "courseName": "IntegratedEnglishI[13]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０７"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C14",
+    "courseName": "IntegratedEnglishI[14]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C15",
+    "courseName": "IntegratedEnglishI[15]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０９"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605C16",
+    "courseName": "IntegratedEnglishI[16]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１０"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L605M01",
+    "courseName": "IntegratedEnglishI[1]MS火1",
+    "lecturer": [
+      "小林素羅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M02",
+    "courseName": "IntegratedEnglishI[2]MS火1",
+    "lecturer": [
+      "竹内朋子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M03",
+    "courseName": "IntegratedEnglishI[3]MS火1",
+    "lecturer": [
+      "杉本奈緒(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M04",
+    "courseName": "IntegratedEnglishI[4]MS火1",
+    "lecturer": [
+      "赤間主計(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M05",
+    "courseName": "IntegratedEnglishI[5]MS火1",
+    "lecturer": [
+      "吉原学(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M06",
+    "courseName": "IntegratedEnglishI[6]MS火1",
+    "lecturer": [
+      "アシュウィン",
+      "Ｃ(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M07",
+    "courseName": "IntegratedEnglishI[1]MS金1",
+    "lecturer": [
+      "山本五郎(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M08",
+    "courseName": "IntegratedEnglishI[2]MS金1",
+    "lecturer": [
+      "田村明子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M09",
+    "courseName": "IntegratedEnglishI[3]MS金1",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M10",
+    "courseName": "IntegratedEnglishI[4]MS金1",
+    "lecturer": [
+      "長尾主税(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M11",
+    "courseName": "IntegratedEnglishI[5]MS金1",
+    "lecturer": [
+      "吉原学(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L605M12",
+    "courseName": "IntegratedEnglishI[6]MS金1",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L606R01",
+    "courseName": "IntegratedEnglishII[再]",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L607B01",
+    "courseName": "AdvancedEnglishI[月2]BS電電応化",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L607C01",
+    "courseName": "AdvancedEnglishI[木2]CS機械",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L607M01",
+    "courseName": "AdvancedEnglishI[火1]MS",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L607M02",
+    "courseName": "AdvancedEnglishI[金1]MS",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L60901",
+    "courseName": "英語集中講座[フィリピンオンラインプログラム]2025夏実施",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L60903",
+    "courseName": "英語集中講座[登別]2025夏実施",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L61001",
+    "courseName": "海外語学研修I[オーストラリア]2025夏実施",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L61201",
+    "courseName": "中国語I[月2陸]",
+    "lecturer": [
+      "陸薇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61202",
+    "courseName": "中国語I[水3陸]",
+    "lecturer": [
+      "陸薇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61203",
+    "courseName": "中国語I[水4陸]",
+    "lecturer": [
+      "陸薇(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61204",
+    "courseName": "中国語I[木2陳]",
+    "lecturer": [
+      "陳淑梅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61205",
+    "courseName": "中国語I[木3陳]",
+    "lecturer": [
+      "陳淑梅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61206",
+    "courseName": "中国語I[金2陳]",
+    "lecturer": [
+      "陳淑梅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61207",
+    "courseName": "中国語I[金3陳]",
+    "lecturer": [
+      "陳淑梅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61208",
+    "courseName": "中国語I[金4陳]",
+    "lecturer": [
+      "陳淑梅(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61401",
+    "courseName": "韓国語I[水3]",
+    "lecturer": [
+      "柳宗伸(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61402",
+    "courseName": "韓国語I[水4]",
+    "lecturer": [
+      "柳宗伸(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "L61403",
+    "courseName": "韓国語I[水5]",
+    "lecturer": [
+      "柳宗伸(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620B01",
+    "courseName": "IntegratedEnglishIII[1]BS電電応化",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０５"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B02",
+    "courseName": "IntegratedEnglishIII[2]BS電電応化",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B03",
+    "courseName": "IntegratedEnglishIII[3]BS電電応化",
+    "lecturer": [
+      "大塚節生(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B04",
+    "courseName": "IntegratedEnglishIII[4]BS電電応化",
+    "lecturer": [
+      "朝熊悠(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B05",
+    "courseName": "IntegratedEnglishIII[5]BS電電応化",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B06",
+    "courseName": "IntegratedEnglishIII[6]BS電電応化",
+    "lecturer": [
+      "岩崎剛毅(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B07",
+    "courseName": "IntegratedEnglishIII[7]BS電電応化",
+    "lecturer": [
+      "三部祐治(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B08",
+    "courseName": "IntegratedEnglishIII[8]BS電電応化",
+    "lecturer": [
+      "岡本進(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B09",
+    "courseName": "IntegratedEnglishIII[9]BS電電応化",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B10",
+    "courseName": "IntegratedEnglishIII[10]BS電電応化",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０９"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B11",
+    "courseName": "IntegratedEnglishIII[11]BS電電応化",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１０"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620B12",
+    "courseName": "IntegratedEnglishIII[12]BS電電応化",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C01",
+    "courseName": "IntegratedEnglishIII[1]CS機械",
+    "lecturer": [
+      "閔由眞(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C02",
+    "courseName": "IntegratedEnglishIII[2]CS機械",
+    "lecturer": [
+      "奈古明子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C03",
+    "courseName": "IntegratedEnglishIII[3]CS機械",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C04",
+    "courseName": "IntegratedEnglishIII[4]CS機械",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C05",
+    "courseName": "IntegratedEnglishIII[5]CS機械",
+    "lecturer": [
+      "原田英子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C06",
+    "courseName": "IntegratedEnglishIII[6]CS機械",
+    "lecturer": [
+      "山本三穂(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C07",
+    "courseName": "IntegratedEnglishIII[7]CS機械",
+    "lecturer": [
+      "青木美奈(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C08",
+    "courseName": "IntegratedEnglishIII[8]CS機械",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C09",
+    "courseName": "IntegratedEnglishIII[9]CS機械",
+    "lecturer": [
+      "鈴木希(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C10",
+    "courseName": "IntegratedEnglishIII[10]CS機械",
+    "lecturer": [
+      "尾関浩司(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C11",
+    "courseName": "IntegratedEnglishIII[11]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C12",
+    "courseName": "IntegratedEnglishIII[12]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０７"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C13",
+    "courseName": "IntegratedEnglishIII[13]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C14",
+    "courseName": "IntegratedEnglishIII[14]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０９"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C15",
+    "courseName": "IntegratedEnglishIII[15]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１０"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620C16",
+    "courseName": "IntegratedEnglishIII[16]CS機械",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M01",
+    "courseName": "IntegratedEnglishIII[A1]MS",
+    "lecturer": [
+      "ミンドグA(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M02",
+    "courseName": "IntegratedEnglishIII[A2]MS",
+    "lecturer": [
+      "井上真美(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M03",
+    "courseName": "IntegratedEnglishIII[A3]MS",
+    "lecturer": [
+      "アシュウィン",
+      "Ｃ(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M04",
+    "courseName": "IntegratedEnglishIII[A4]MS",
+    "lecturer": [
+      "田村明子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M05",
+    "courseName": "IntegratedEnglishIII[A5]MS",
+    "lecturer": [
+      "竹内朋子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M06",
+    "courseName": "IntegratedEnglishIII[A6]MS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０８"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M07",
+    "courseName": "IntegratedEnglishIII[A7]MS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０７"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L620M08",
+    "courseName": "IntegratedEnglishIII[B1]MS",
+    "lecturer": [
+      "ミンドグA(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M09",
+    "courseName": "IntegratedEnglishIII[B2]MS",
+    "lecturer": [
+      "井上真美(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M10",
+    "courseName": "IntegratedEnglishIII[B3]MS",
+    "lecturer": [
+      "アシュウィン",
+      "Ｃ(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M11",
+    "courseName": "IntegratedEnglishIII[B4]MS",
+    "lecturer": [
+      "田村明子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M12",
+    "courseName": "IntegratedEnglishIII[B5]MS",
+    "lecturer": [
+      "竹内朋子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M13",
+    "courseName": "IntegratedEnglishIII[B6]MS",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１０"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L620M14",
+    "courseName": "IntegratedEnglishIII[B7]MS",
+    "lecturer": [
+      "神谷明美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３１１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L621R01",
+    "courseName": "IntegratedEnglishIV[再]",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L62201",
+    "courseName": "フランス語I[火3]",
+    "lecturer": [
+      "増田ユリ子(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803B01",
+    "courseName": "アカデミックスキルズI[BS1]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B02",
+    "courseName": "アカデミックスキルズI[BS2]",
+    "lecturer": [
+      "兼子諭(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B03",
+    "courseName": "アカデミックスキルズI[BS3]",
+    "lecturer": [
+      "東晴美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B04",
+    "courseName": "アカデミックスキルズI[BS4]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B05",
+    "courseName": "アカデミックスキルズI[BS5]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B06",
+    "courseName": "アカデミックスキルズI[BS6]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B07",
+    "courseName": "アカデミックスキルズI[BS7]",
+    "lecturer": [
+      "髙橋賢次(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B08",
+    "courseName": "アカデミックスキルズI[BS8]",
+    "lecturer": [
+      "杉平敦(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B09",
+    "courseName": "アカデミックスキルズI[BS9]",
+    "lecturer": [
+      "鈴木万希枝(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B10",
+    "courseName": "アカデミックスキルズI[BS10]",
+    "lecturer": [
+      "松下優一(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０５"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803B11",
+    "courseName": "アカデミックスキルズI[BS11]",
+    "lecturer": [
+      "生間元基(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L803C01",
+    "courseName": "アカデミックスキルズI[CS1]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C02",
+    "courseName": "アカデミックスキルズI[CS2]",
+    "lecturer": [
+      "兼子諭(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C03",
+    "courseName": "アカデミックスキルズI[CS3]",
+    "lecturer": [
+      "東晴美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C04",
+    "courseName": "アカデミックスキルズI[CS4]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C05",
+    "courseName": "アカデミックスキルズI[CS5]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C06",
+    "courseName": "アカデミックスキルズI[CS6]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C07",
+    "courseName": "アカデミックスキルズI[CS7]",
+    "lecturer": [
+      "髙橋賢次(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C08",
+    "courseName": "アカデミックスキルズI[CS8]",
+    "lecturer": [
+      "杉平敦(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C09",
+    "courseName": "アカデミックスキルズI[CS9]",
+    "lecturer": [
+      "中島敏博(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C10",
+    "courseName": "アカデミックスキルズI[CS10]",
+    "lecturer": [
+      "松下優一(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０５"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C11",
+    "courseName": "アカデミックスキルズI[CS11]",
+    "lecturer": [
+      "生間元基(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C12",
+    "courseName": "アカデミックスキルズI[CS12]",
+    "lecturer": [
+      "安藤公彦(片柳研究所)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803C13",
+    "courseName": "アカデミックスキルズI[CS13]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｃ１００１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M01",
+    "courseName": "アカデミックスキルズI[MS1]",
+    "lecturer": [
+      "鈴木万希枝(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M02",
+    "courseName": "アカデミックスキルズI[MS2]",
+    "lecturer": [
+      "杉平敦(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M03",
+    "courseName": "アカデミックスキルズI[MS3]",
+    "lecturer": [
+      "東晴美(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M04",
+    "courseName": "アカデミックスキルズI[MS4]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M05",
+    "courseName": "アカデミックスキルズI[MS5]",
+    "lecturer": [
+      "吉田秀昭(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M06",
+    "courseName": "アカデミックスキルズI[MS6]",
+    "lecturer": [
+      "田口雄一朗(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M07",
+    "courseName": "アカデミックスキルズI[MS7]",
+    "lecturer": [
+      "中島敏博(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M08",
+    "courseName": "アカデミックスキルズI[MS8]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０５"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M09",
+    "courseName": "アカデミックスキルズI[MS9]",
+    "lecturer": [
+      "古山美佳(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M10",
+    "courseName": "アカデミックスキルズI[MS10]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｃ１００１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M11",
+    "courseName": "アカデミックスキルズI[MS11]",
+    "lecturer": [
+      "松本尚子(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｃ１００２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L803M12",
+    "courseName": "アカデミックスキルズI[MS12]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｃ１００３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "L90101",
+    "courseName": "コーオプ実習I",
+    "lecturer": [
+      "大原延恵(工学部)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L90301",
+    "courseName": "地域連携実習I[佐渡]",
+    "lecturer": [
+      "大山昌彦(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L90302",
+    "courseName": "地域連携実習I[登別]",
+    "lecturer": [
+      "中島敏博(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L90303",
+    "courseName": "地域連携実習I[八王子学童保育]",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L90701",
+    "courseName": "サービスラーニングI",
+    "lecturer": [
+      "神子島健(教養学環)",
+      "中島敏博(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "L9110101",
+    "courseName": "海外研修I[韓国]2025年夏実施",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L9110102",
+    "courseName": "海外研修I[シンガポール]2025年夏実施",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L9110103",
+    "courseName": "海外研修I[フィリピンオンラインプログラム]2025年夏実施",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "L9240201",
+    "courseName": "サービスラーニングIV（八王子）",
+    "lecturer": [
+      "神子島健(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  }
+]

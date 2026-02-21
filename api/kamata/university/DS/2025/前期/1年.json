@@ -1,0 +1,1230 @@
+[
+  {
+    "lectureCode": "R1010",
+    "courseName": "哲学[デザイン]",
+    "lecturer": [
+      "山中健義(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1020",
+    "courseName": "芸術論[デザイン]",
+    "lecturer": [
+      "暮沢剛巳(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1030",
+    "courseName": "政治学[デザイン]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1040",
+    "courseName": "経済学[デザイン]",
+    "lecturer": [
+      "島倉原(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1081",
+    "courseName": "フレッシュマンイングリッシュI[デザイン1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1082",
+    "courseName": "フレッシュマンイングリッシュI[デザイン2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1083",
+    "courseName": "フレッシュマンイングリッシュI[デザイン3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1084",
+    "courseName": "フレッシュマンイングリッシュI[デザイン4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1085",
+    "courseName": "フレッシュマンイングリッシュI[デザイン5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1086",
+    "courseName": "フレッシュマンイングリッシュI[デザイン6]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1087",
+    "courseName": "フレッシュマンイングリッシュI[デザイン7]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1088",
+    "courseName": "フレッシュマンイングリッシュI[デザイン8]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1089",
+    "courseName": "フレッシュマンイングリッシュI[デザイン9]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R108A",
+    "courseName": "フレッシュマンイングリッシュI[デザイン10]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R108B",
+    "courseName": "フレッシュマンイングリッシュI[デザイン11]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火5",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R108C",
+    "courseName": "フレッシュマンイングリッシュI[デザイン12]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R108D",
+    "courseName": "フレッシュマンイングリッシュI[デザイン再履修クラス]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1130",
+    "courseName": "コンピュータ概論[デザイン]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1140",
+    "courseName": "生物の世界[デザイン]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1150",
+    "courseName": "数学基礎[デザイン]",
+    "lecturer": [
+      "須田拓馬(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1190",
+    "courseName": "栄養と健康[デザイン]",
+    "lecturer": [
+      "遠藤大哉(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1230",
+    "courseName": "フレッシャーズゼミ[デザイン]",
+    "lecturer": [
+      "小田敬子(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1010",
+    "courseName": "デザイン概説I",
+    "lecturer": [
+      "酒百宏一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1030",
+    "courseName": "色彩概論",
+    "lecturer": [
+      "早瀬交宣(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "S1040",
+    "courseName": "平面表現の基礎",
+    "lecturer": [
+      "深澤健作(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1061",
+    "courseName": "デジタルスキルA［AC1］",
+    "lecturer": [
+      "樋口泰行(兼任講師)",
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "月2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1062",
+    "courseName": "デジタルスキルA［AC2］",
+    "lecturer": [
+      "川端亜衣(兼任講師)",
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "月2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1063",
+    "courseName": "デジタルスキルA［AC3］",
+    "lecturer": [
+      "田島知華(兼任講師)",
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "月2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1064",
+    "courseName": "デジタルスキルA［BC1］",
+    "lecturer": [
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1065",
+    "courseName": "デジタルスキルA［BC2］",
+    "lecturer": [
+      "小藤貴之(兼任講師)",
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1066",
+    "courseName": "デジタルスキルA［BC3］",
+    "lecturer": [
+      "尾花曉(兼任講師)",
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1081q",
+    "courseName": "感性演習I（描く・伝える）[1Q／K1・K2共通]",
+    "lecturer": [
+      "深澤健作(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３０１デザイン演習室１",
+      "３１３１５デザイン演習室４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1082q",
+    "courseName": "感性演習I（描く・伝える）[2Q／K3・K4共通]",
+    "lecturer": [
+      "深澤健作(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３０１デザイン演習室１",
+      "３１３１５デザイン演習室４"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1101q",
+    "courseName": "感性演習I（つくる・関係づける）[1Q／K3・K4共通]",
+    "lecturer": [
+      "御幸朋寿(デザイン学部デザイン学科)",
+      "酒百宏一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３１１デザイン演習室２",
+      "３１３１３デザイン演習室３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1102q",
+    "courseName": "感性演習I（つくる・関係づける）[2Q／K1・K2共通]",
+    "lecturer": [
+      "御幸朋寿(デザイン学部デザイン学科)",
+      "酒百宏一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３１１デザイン演習室２",
+      "３１３１３デザイン演習室３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "lectureCode": "1105801",
+    "courseName": "インターンシップI[機]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "1105901",
+    "courseName": "インターンシップII[機]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "1105802",
+    "courseName": "インターンシップI[電]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "1105902",
+    "courseName": "インターンシップII[電]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11040K7",
+    "courseName": "情報リテラシー[化][2023年以前入学者]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041K7",
+    "courseName": "情報リテラシー演習[化][2023年以前入学者]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２",
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "1105803",
+    "courseName": "インターンシップI[化]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "1105903",
+    "courseName": "インターンシップII[化]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  }
+]

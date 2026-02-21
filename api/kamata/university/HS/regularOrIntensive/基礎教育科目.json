@@ -1,0 +1,3433 @@
+[
+  {
+    "lectureCode": "T0100",
+    "courseName": "哲学[医療]",
+    "lecturer": [
+      "山中健義(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T0200",
+    "courseName": "芸術論[医療]",
+    "lecturer": [
+      "暮沢剛巳(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T0300",
+    "courseName": "心理学[医療]",
+    "lecturer": [
+      "高濱祥子(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T0400",
+    "courseName": "倫理学[医療]",
+    "lecturer": [
+      "岡野浩(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T0500",
+    "courseName": "宗教学[医療]",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T0600",
+    "courseName": "科学論[医療]",
+    "lecturer": [
+      "詫間直樹(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T0700",
+    "courseName": "政治学[医療]",
+    "lecturer": [
+      "落合浩太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T0800",
+    "courseName": "経済学[医療]",
+    "lecturer": [
+      "島倉原(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T0900",
+    "courseName": "法学[医療]",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "火5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1000",
+    "courseName": "コミュニケーション論[医療]",
+    "lecturer": [
+      "志岐裕子(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T1111",
+    "courseName": "フレッシュマンイングリッシュI[看護1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1112",
+    "courseName": "フレッシュマンイングリッシュI[看護2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1113",
+    "courseName": "フレッシュマンイングリッシュI[看護3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1114",
+    "courseName": "フレッシュマンイングリッシュI[看護4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1115",
+    "courseName": "フレッシュマンイングリッシュI[看護5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水5",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1121",
+    "courseName": "フレッシュマンイングリッシュI[臨工1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "金2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1122",
+    "courseName": "フレッシュマンイングリッシュI[臨工2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1123",
+    "courseName": "フレッシュマンイングリッシュI[臨工3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1124",
+    "courseName": "フレッシュマンイングリッシュI[臨工4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1125",
+    "courseName": "フレッシュマンイングリッシュI[臨工5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4",
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1151",
+    "courseName": "フレッシュマンイングリッシュI[臨検1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1152",
+    "courseName": "フレッシュマンイングリッシュI[臨検2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1153",
+    "courseName": "フレッシュマンイングリッシュI[臨検3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1154",
+    "courseName": "フレッシュマンイングリッシュI[臨検4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1155",
+    "courseName": "フレッシュマンイングリッシュI[臨検5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11611",
+    "courseName": "フレッシュマンイングリッシュI[理学1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11612",
+    "courseName": "フレッシュマンイングリッシュI[理学2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11613",
+    "courseName": "フレッシュマンイングリッシュI[理学3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11614",
+    "courseName": "フレッシュマンイングリッシュI[理学4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11615",
+    "courseName": "フレッシュマンイングリッシュI[理学5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11621",
+    "courseName": "フレッシュマンイングリッシュI[作業1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火2",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11622",
+    "courseName": "フレッシュマンイングリッシュI[作業2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3",
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11631",
+    "courseName": "フレッシュマンイングリッシュI[言語1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火4",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T11632",
+    "courseName": "フレッシュマンイングリッシュI[言語2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火4",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1211",
+    "courseName": "フレッシュマンイングリッシュII[看護1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1212",
+    "courseName": "フレッシュマンイングリッシュII[看護2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1213",
+    "courseName": "フレッシュマンイングリッシュII[看護3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1214",
+    "courseName": "フレッシュマンイングリッシュII[看護4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1215",
+    "courseName": "フレッシュマンイングリッシュII[看護5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1221",
+    "courseName": "フレッシュマンイングリッシュII[臨工1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水4",
+      "金2"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1222",
+    "courseName": "フレッシュマンイングリッシュII[臨工2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1223",
+    "courseName": "フレッシュマンイングリッシュII[臨工3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1224",
+    "courseName": "フレッシュマンイングリッシュII[臨工4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1225",
+    "courseName": "フレッシュマンイングリッシュII[臨工5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1251",
+    "courseName": "フレッシュマンイングリッシュII[臨検1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1252",
+    "courseName": "フレッシュマンイングリッシュII[臨検2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1253",
+    "courseName": "フレッシュマンイングリッシュII[臨検3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1254",
+    "courseName": "フレッシュマンイングリッシュII[臨検4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1255",
+    "courseName": "フレッシュマンイングリッシュII[臨検5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T12611",
+    "courseName": "フレッシュマンイングリッシュII[理学1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T12612",
+    "courseName": "フレッシュマンイングリッシュII[理学2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T12613",
+    "courseName": "フレッシュマンイングリッシュII[理学3]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T12614",
+    "courseName": "フレッシュマンイングリッシュII[理学4]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T12615",
+    "courseName": "フレッシュマンイングリッシュII[理学5]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T12621",
+    "courseName": "フレッシュマンイングリッシュII[作業1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2",
+      "水"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T12622",
+    "courseName": "フレッシュマンイングリッシュII[作業2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2",
+      "水5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T12631",
+    "courseName": "フレッシュマンイングリッシュII[言語1]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T12632",
+    "courseName": "フレッシュマンイングリッシュII[言語2]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "水5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1400",
+    "courseName": "栄養と健康[看護臨工臨検]",
+    "lecturer": [
+      "遠藤大哉(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水4"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1500",
+    "courseName": "スポーツ・コンディショニング[医療]",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1600",
+    "courseName": "スポーツ・コンディショニング実習",
+    "lecturer": [
+      "巴伸一(兼任講師)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1700",
+    "courseName": "集中実技I（野外活動）[医療]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T1800",
+    "courseName": "集中実技II（スキー）[医療]",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T1910",
+    "courseName": "コンピュータリテラシー演習[看護]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1920",
+    "courseName": "コンピュータリテラシー演習I[臨工]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1950",
+    "courseName": "コンピュータリテラシー演習[臨検]",
+    "lecturer": [
+      "吉田秀昭(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1961",
+    "courseName": "コンピュータリテラシー演習[理学]",
+    "lecturer": [
+      "吉田秀昭(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T1962",
+    "courseName": "コンピュータリテラシー演習[作業言語]",
+    "lecturer": [
+      "吉田秀昭(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2000",
+    "courseName": "コンピュータリテラシー演習II",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１１１１教室",
+      "３１１１２教室",
+      "３１１１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2100",
+    "courseName": "コンピュータ概論I[医療]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2120",
+    "courseName": "コンピュータ概論[臨工]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2200",
+    "courseName": "コンピュータ概論II[医療]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T2300",
+    "courseName": "データサイエンス入門",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T2500",
+    "courseName": "フレッシャーズゼミ[医療]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2661",
+    "courseName": "フレッシャーズゼミI[リハビリ]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部リハビリテーション学科理学療法学専攻",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2711",
+    "courseName": "フレッシャーズゼミ[看護1]",
+    "lecturer": [
+      "浅海くるみ(医療保健学部看護学科)",
+      "繁永元樹(医療保健学部看護学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１１ＰＣ演習室１"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2712",
+    "courseName": "フレッシャーズゼミ[看護2]",
+    "lecturer": [
+      "望月良美(医療保健学部看護学科)",
+      "印東桂子(医療保健学部看護学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2713",
+    "courseName": "フレッシャーズゼミ[看護3]",
+    "lecturer": [
+      "岩波浩美(医療保健学部看護学科)",
+      "佐藤智子(医療保健学部看護学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１２ＰＣ演習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2714",
+    "courseName": "フレッシャーズゼミ[看護4]",
+    "lecturer": [
+      "帆苅なおみ(医療保健学部看護学科)",
+      "東雅啓(医療保健学部看護学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2721",
+    "courseName": "フレッシャーズゼミ[臨工1]",
+    "lecturer": [
+      "荻野稔(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０５基礎医学実習室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2722",
+    "courseName": "フレッシャーズゼミ[臨工2]",
+    "lecturer": [
+      "笠井亮佑(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０５基礎医学実習室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2723",
+    "courseName": "フレッシャーズゼミ[臨工3]",
+    "lecturer": [
+      "加納敬(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０７生物・化学実習室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2724",
+    "courseName": "フレッシャーズゼミ[臨工4]",
+    "lecturer": [
+      "下村美文(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０７生物・化学実習室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2751",
+    "courseName": "フレッシャーズゼミ[臨検1]",
+    "lecturer": [
+      "川又紀彦(医療保健学部臨床検査学科)",
+      "奥橋佑基(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ３０１臨床検査実習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2752",
+    "courseName": "フレッシャーズゼミ[臨検2]",
+    "lecturer": [
+      "佐々木聰(医療保健学部臨床検査学科)",
+      "國枝泰希(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ３０７臨床検査実習室４"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2753",
+    "courseName": "フレッシャーズゼミ[臨検3]",
+    "lecturer": [
+      "吉田祥子(医療保健学部臨床検査学科)",
+      "水野元貴(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ３０８臨床検査実習室５"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2761",
+    "courseName": "フレッシャーズゼミII[リハビリ]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部リハビリテーション学科理学療法学専攻",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T27611",
+    "courseName": "フレッシャーズゼミ[理学1]",
+    "lecturer": [
+      "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "吉田真一(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "十島純子(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "伊藤咲子(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "高木健志(医療保健学部リハビリテーション学科理学療法学専攻)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T27612",
+    "courseName": "フレッシャーズゼミ[理学2]",
+    "lecturer": [
+      "忽那俊樹(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "日下さと美(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "土屋順子(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "渡部祥輝(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "清水潤(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "斎藤寛樹(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "田中周(医療保健学部リハビリテーション学科理学療法学専攻)",
+      "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１７教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T27621",
+    "courseName": "フレッシャーズゼミ[作業]",
+    "lecturer": [
+      "池田晋平(医療保健学部リハビリテーション学科作業療法学専攻)",
+      "伊藤公一(医療保健学部リハビリテーション学科作業療法学専攻)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ６０５手工芸室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T27631",
+    "courseName": "フレッシャーズゼミ[言語]",
+    "lecturer": [
+      "石津希代子(医療保健学部リハビリテーション学科言語聴覚学専攻)",
+      "内山美保(医療保健学部リハビリテーション学科言語聴覚学専攻)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2810",
+    "courseName": "医療科学の基礎[看護]",
+    "lecturer": [
+      "東雅啓(医療保健学部看護学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義・実験科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０５基礎医学実習室",
+      "Ｍ４０７生物・化学実習室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2820",
+    "courseName": "医療科学の基礎I[臨工]",
+    "lecturer": [
+      "下村美文(医療保健学部臨床工学科)",
+      "都丸亜希子(兼任講師)",
+      "内田庸助(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義・実験科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０５基礎医学実習室",
+      "Ｍ４０７生物・化学実習室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2850",
+    "courseName": "医療科学の基礎[臨検]",
+    "lecturer": [
+      "佐々木聰(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義・実験科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ３０７臨床検査実習室４",
+      "Ｍ３０８臨床検査実習室５"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T2900",
+    "courseName": "医療科学の基礎II",
+    "lecturer": [
+      "佐藤広隆(医療保健学部臨床工学科)",
+      "安藤ゆうき(医療保健学部臨床工学科)",
+      "髙橋優太(医療保健学部臨床工学科)",
+      "内田庸助(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義・実験科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "Ｍ４０５基礎医学実習室",
+      "Ｍ４０７生物・化学実習室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3000",
+    "courseName": "生物の世界[医療]",
+    "lecturer": [
+      "中村秀明(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3050",
+    "courseName": "生物の世界[臨検]",
+    "lecturer": [
+      "佐々木聰(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "医療保健学部臨床検査学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3100",
+    "courseName": "化学の世界[医療]",
+    "lecturer": [
+      "下村美文(医療保健学部臨床工学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3150",
+    "courseName": "化学の世界[臨検]",
+    "lecturer": [
+      "三上あかね(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "医療保健学部臨床検査学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3151",
+    "courseName": "化学の基礎[臨検4年]",
+    "lecturer": [
+      "三上あかね(医療保健学部臨床検査学科)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部臨床検査学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3200",
+    "courseName": "物理の世界[医療]",
+    "lecturer": [
+      "須田拓馬(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3220",
+    "courseName": "物理の世界[臨工]",
+    "lecturer": [
+      "加用一者(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "医療保健学部臨床工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１２教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3300",
+    "courseName": "数学基礎[医療]",
+    "lecturer": [
+      "須田拓馬(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3320",
+    "courseName": "数学基礎[臨工]",
+    "lecturer": [
+      "須田拓馬(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "医療保健学部臨床工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１３教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "T3400",
+    "courseName": "統計学[医療]",
+    "lecturer": [
+      "須田拓馬(教養学環)"
+    ],
+    "regularOrIntensive": "基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  }
+]

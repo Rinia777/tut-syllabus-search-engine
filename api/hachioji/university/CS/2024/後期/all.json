@@ -1,0 +1,387 @@
+[
+  {
+    "lectureCode": "C21702",
+    "courseName": "データベース[後期]",
+    "lecturer": [
+      "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "C21802",
+    "courseName": "計算アルゴリズム[後期]",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C21902",
+    "courseName": "人工知能[後期]",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22002",
+    "courseName": "インターネット[後期]",
+    "lecturer": [
+      "金光永煥(兼任講師)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22302",
+    "courseName": "データサイエンス[後期]",
+    "lecturer": [
+      "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22502",
+    "courseName": "分散コンピューティング[後期]",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22702",
+    "courseName": "プロジェクト演習II[テーマB・A]CS",
+    "lecturer": [
+      "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22703",
+    "courseName": "プロジェクト演習II[テーマC・D]CS",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C22704",
+    "courseName": "プロジェクト演習II[テーマD・C]CS",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "C30900",
+    "courseName": "創成課題[CS]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C30927",
+    "courseName": "創成課題[CS]",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "C30928",
+    "courseName": "創成課題[CS]",
+    "lecturer": [
+      "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  }
+]

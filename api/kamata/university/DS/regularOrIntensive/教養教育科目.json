@@ -1,0 +1,619 @@
+[
+  {
+    "lectureCode": "R1161",
+    "courseName": "コンピュータ概論II[デザイン2023以前入学生]",
+    "lecturer": [
+      "藤澤幸太郎(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１４教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R2040",
+    "courseName": "倫理学[デザイン]",
+    "lecturer": [
+      "岡野浩(兼任講師)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３０２１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R2055",
+    "courseName": "英語インテンシブI［デザイン5］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R205F",
+    "courseName": "英語インテンシブI［デザイン再履修クラス］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０２０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2061",
+    "courseName": "英語インテンシブII［デザイン1］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2062",
+    "courseName": "英語インテンシブII［デザイン2］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2063",
+    "courseName": "英語インテンシブII［デザイン3］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2064",
+    "courseName": "英語インテンシブII［デザイン4］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2065",
+    "courseName": "英語インテンシブII［デザイン5］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2066",
+    "courseName": "英語インテンシブII［デザイン6］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３０３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2067",
+    "courseName": "英語インテンシブII［デザイン7］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2068",
+    "courseName": "英語インテンシブII［デザイン8］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R2069",
+    "courseName": "英語インテンシブII［デザイン9］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R206A",
+    "courseName": "英語インテンシブII［デザイン10］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R206B",
+    "courseName": "英語インテンシブII［デザインTOEIC］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０２０２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R206C",
+    "courseName": "英語インテンシブII［デザイン12］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R206F",
+    "courseName": "英語インテンシブII［デザイン再履修クラス］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１２教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "R3010",
+    "courseName": "英語インテンシブIII[デザイン]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R3020",
+    "courseName": "英語インテンシブIV[デザイン]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１１教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "R3030",
+    "courseName": "キャリアデザインIV[デザイン]",
+    "lecturer": [
+      "野条美貴(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３１００１階段教室２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "R3040",
+    "courseName": "キャリアデザインV[デザイン]",
+    "lecturer": [
+      "野条美貴(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３Ｂ１１０大講義室（地下ホール）"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  }
+]

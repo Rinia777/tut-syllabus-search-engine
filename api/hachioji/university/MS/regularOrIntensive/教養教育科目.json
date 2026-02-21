@@ -1,0 +1,122 @@
+[
+  {
+    "lectureCode": "11058M1",
+    "courseName": "インターンシップI[MS]",
+    "lecturer": [
+      "菊池司(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11059M1",
+    "courseName": "インターンシップII[MS]",
+    "lecturer": [
+      "菊池司(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11120M01",
+    "courseName": "キャリア設計I[MS]",
+    "lecturer": [
+      "菊池司(メディア学部メディア学科)",
+      "川野文子(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６",
+      "講義実験棟４０１",
+      "講義実験棟４０２",
+      "研究棟Ａ５０２",
+      "研究棟Ａ５０３",
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "11121M04",
+    "courseName": "キャリア設計II[MS]",
+    "lecturer": [
+      "菊池司(メディア学部メディア学科)",
+      "川野文子(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "火4"
+    ],
+    "targetDepartment": "メディア学部メディア学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１",
+      "講義棟Ａ２０２",
+      "講義棟Ａ２０３",
+      "講義棟Ａ２０４",
+      "講義棟Ａ３０１",
+      "片柳研究所ＣＢ０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  }
+]

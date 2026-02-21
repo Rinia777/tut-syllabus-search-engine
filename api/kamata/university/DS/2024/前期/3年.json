@@ -1,0 +1,610 @@
+[
+  {
+    "lectureCode": "R1080",
+    "courseName": "フレッシュマンイングリッシュI[デザイン]",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2",
+      "火5",
+      "木2",
+      "金"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "R1100",
+    "courseName": "海外語学研修I［オーストラリア］2024年夏・DS",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1121",
+    "courseName": "英語集中講座［2024夏実施フィリピン］DS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1123",
+    "courseName": "英語集中講座［2024夏実施登別］DS",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1210",
+    "courseName": "集中実技I［野外活動］デザイン",
+    "lecturer": [
+      "佐久間裕司(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1271",
+    "courseName": "海外研修I[韓国]2024年夏・DS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R1272",
+    "courseName": "海外研修I[シンガポール]2024年夏・DS",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "R2055",
+    "courseName": "英語インテンシブI［デザイン5］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０３１３教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "R205F",
+    "courseName": "英語インテンシブI［デザイン再履修クラス］",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "３０２０１教室"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1060",
+    "courseName": "デジタルスキルA［クラス共通］",
+    "lecturer": [
+      "田邉雄一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月",
+      "月2",
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１１ＰＣ演習室１",
+      "３１１１２ＰＣ演習室２",
+      "３１１１３ＰＣ演習室３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1080",
+    "courseName": "感性演習I（描く・伝える）［Q共通］",
+    "lecturer": [
+      "深澤健作(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３０１デザイン演習室１",
+      "３１３１５デザイン演習室４"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S1100",
+    "courseName": "感性演習I（つくる・関係づける）［Q共通］",
+    "lecturer": [
+      "高澤恭子(デザイン学部デザイン学科)",
+      "酒百宏一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5",
+      "金3",
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３１１デザイン演習室２",
+      "３１３１３デザイン演習室３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S2060",
+    "courseName": "感性演習I（関係づける）[クラス共通]",
+    "lecturer": [
+      "田崎咲絵(デザイン学部デザイン学科)",
+      "御幸朋寿(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月3",
+      "月4",
+      "月5",
+      "火3",
+      "火4",
+      "火5"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "３１３１１デザイン演習室２",
+      "３１３１３デザイン演習室３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "S2081",
+    "courseName": "スキル演習（撮影・画像加工）［木曜Aクラス］",
+    "lecturer": [
+      "原田和大(兼任講師)",
+      "石山慎治(兼任講師)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１４デザインクリエーションルーム１",
+      "３１４０２撮影スタジオ",
+      "３１４１３専門演習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S2082",
+    "courseName": "スキル演習（撮影・画像加工）［木曜Bクラス］",
+    "lecturer": [
+      "原田和大(兼任講師)",
+      "石山慎治(兼任講師)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木",
+      "木2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１４デザインクリエーションルーム１",
+      "３１４０２撮影スタジオ",
+      "３１４１３専門演習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S2083",
+    "courseName": "スキル演習（撮影・画像加工）［金曜Aクラス］",
+    "lecturer": [
+      "石動和香子(兼任講師)",
+      "吉永和久(兼任講師)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１４デザインクリエーションルーム１",
+      "３１１１５デザインクリエーションルーム２",
+      "３１４０２撮影スタジオ",
+      "３１４１３専門演習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "S2084",
+    "courseName": "スキル演習（撮影・画像加工）［金曜Bクラス］",
+    "lecturer": [
+      "石動和香子(兼任講師)",
+      "吉永和久(兼任講師)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１４デザインクリエーションルーム１",
+      "３１１１５デザインクリエーションルーム２",
+      "３１４０２撮影スタジオ",
+      "３１４１３専門演習室２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  }
+]

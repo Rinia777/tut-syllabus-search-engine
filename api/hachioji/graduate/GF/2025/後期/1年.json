@@ -1,0 +1,122 @@
+[
+  {
+    "lectureCode": "GF1003",
+    "courseName": "デザインクリエイションII",
+    "lecturer": [
+      "伊藤丙雄(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "月",
+      "月2",
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "デザイン研究科",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      "３１０１６教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GF1005",
+    "courseName": "デジタルデザインスキルII",
+    "lecturer": [
+      "松村誠一郎(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "デザイン研究科",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１１１６デザインクリエーションルーム３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GF1007",
+    "courseName": "コミュニティとデザイン",
+    "lecturer": [
+      "酒百宏一(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "木",
+      "木2"
+    ],
+    "targetDepartment": "デザイン研究科",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "３１０１６教室"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GF2002",
+    "courseName": "デザイン研究I",
+    "lecturer": [
+      "伊藤丙雄(デザイン学部デザイン学科)"
+    ],
+    "regularOrIntensive": "研究・プロジェクト科目",
+    "courseType": "実験科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "デザイン研究科",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  }
+]

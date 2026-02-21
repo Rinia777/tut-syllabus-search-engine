@@ -1,0 +1,262 @@
+[
+  {
+    "lectureCode": "T3911",
+    "courseName": "英語集中講座[2024夏実施フィリピン]HS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3912",
+    "courseName": "英語集中講座[2024夏実施登別]HS",
+    "lecturer": [
+      "勝浦寿美(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T3921",
+    "courseName": "英語集中講座[2025春実施フィリピン]HS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4011",
+    "courseName": "海外語学研修I[オーストラリア]2024年夏HS",
+    "lecturer": [
+      "ブロックルバンク(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4021",
+    "courseName": "海外語学研修II[イギリス]2025年春HS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4121",
+    "courseName": "海外実習II[ベトナムインターンシップ］2025年春HS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4211",
+    "courseName": "海外研修I[韓国]2024年夏HS",
+    "lecturer": [
+      "楠元洋子(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4212",
+    "courseName": "海外研修I[シンガポール]2024年夏HS",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4221",
+    "courseName": "海外研修II[台湾]2025年春HS",
+    "lecturer": [
+      "石塚美佳(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "T4222",
+    "courseName": "海外研修II[ロサンゼルス]2025年春HS",
+    "lecturer": [
+      "キャンベル，Ａ(教養学環)"
+    ],
+    "regularOrIntensive": "他学部・他大学科目",
+    "courseType": "実習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "医療保健学部",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  }
+]

@@ -1,0 +1,1304 @@
+[
+  {
+    "lectureCode": "11040C1",
+    "courseName": "情報リテラシー[A]CS",
+    "lecturer": [
+      "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11040C2",
+    "courseName": "情報リテラシー[B]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11041C1",
+    "courseName": "情報リテラシー演習[A]CS",
+    "lecturer": [
+      "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "未定(所属なし)",
+      "高本綺架(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "金4",
+      "金5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１",
+      "講義棟Ａ２０２",
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041C2",
+    "courseName": "情報リテラシー演習[B]CS",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ２０１",
+      "講義棟Ａ２０２",
+      "講義棟Ａ２０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11042C1",
+    "courseName": "数学概論[A]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11042C2",
+    "courseName": "数学概論[B]CS",
+    "lecturer": [
+      "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)",
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ３０３"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11043C1",
+    "courseName": "数学基礎[A]CS",
+    "lecturer": [
+      "井野海(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０１"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11043C2",
+    "courseName": "数学基礎[B]CS",
+    "lecturer": [
+      "白川貴志(兼任講師)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０２"
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C01",
+    "courseName": "フレッシャーズゼミI[1]CS",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C02",
+    "courseName": "フレッシャーズゼミI[2]CS",
+    "lecturer": [
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C03",
+    "courseName": "フレッシャーズゼミI[3]CS",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C04",
+    "courseName": "フレッシャーズゼミI[4]CS",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C05",
+    "courseName": "フレッシャーズゼミI[5]CS",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C06",
+    "courseName": "フレッシャーズゼミI[6]CS",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C07",
+    "courseName": "フレッシャーズゼミI[7]CS",
+    "lecturer": [
+      "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C08",
+    "courseName": "フレッシャーズゼミI[8]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C09",
+    "courseName": "フレッシャーズゼミI[9]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C10",
+    "courseName": "フレッシャーズゼミI[10]CS",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C11",
+    "courseName": "フレッシャーズゼミI[11]CS",
+    "lecturer": [
+      "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C12",
+    "courseName": "フレッシャーズゼミI[12]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C13",
+    "courseName": "フレッシャーズゼミI[13]CS",
+    "lecturer": [
+      "瀬之口潤輔(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C14",
+    "courseName": "フレッシャーズゼミI[14]CS",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C15",
+    "courseName": "フレッシャーズゼミI[15]CS",
+    "lecturer": [
+      "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11050C16",
+    "courseName": "フレッシャーズゼミI[16]CS",
+    "lecturer": [
+      "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C01",
+    "courseName": "フレッシャーズゼミII[1]CS",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C02",
+    "courseName": "フレッシャーズゼミII[2]CS",
+    "lecturer": [
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C03",
+    "courseName": "フレッシャーズゼミII[3]CS",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C04",
+    "courseName": "フレッシャーズゼミII[4]CS",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C05",
+    "courseName": "フレッシャーズゼミII[5]CS",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C06",
+    "courseName": "フレッシャーズゼミII[6]CS",
+    "lecturer": [
+      "ライエルグリムベルゲン(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C07",
+    "courseName": "フレッシャーズゼミII[7]CS",
+    "lecturer": [
+      "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C08",
+    "courseName": "フレッシャーズゼミII[8]CS",
+    "lecturer": [
+      "千葉康生(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C09",
+    "courseName": "フレッシャーズゼミII[9]CS",
+    "lecturer": [
+      "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C10",
+    "courseName": "フレッシャーズゼミII[10]CS",
+    "lecturer": [
+      "未定(所属なし)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C11",
+    "courseName": "フレッシャーズゼミII[11]CS",
+    "lecturer": [
+      "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C12",
+    "courseName": "フレッシャーズゼミII[12]CS",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C13",
+    "courseName": "フレッシャーズゼミII[13]CS",
+    "lecturer": [
+      "瀬之口潤輔(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C14",
+    "courseName": "フレッシャーズゼミII[14]CS",
+    "lecturer": [
+      "竹田昌弘(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C15",
+    "courseName": "フレッシャーズゼミII[15]CS",
+    "lecturer": [
+      "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11051C16",
+    "courseName": "フレッシャーズゼミII[16]CS",
+    "lecturer": [
+      "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11058C1",
+    "courseName": "インターンシップI[CS]",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11059C1",
+    "courseName": "インターンシップII[CS]",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "実習科目",
+    "courseStart": "2025年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2025/03/21",
+    "search_times": []
+  }
+]

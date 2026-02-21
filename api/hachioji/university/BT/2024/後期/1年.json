@@ -1,0 +1,166 @@
+[
+  {
+    "lectureCode": "11051B06",
+    "courseName": "フレッシャーズゼミII[6]BS",
+    "lecturer": [
+      "杉山友康(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11051B20",
+    "courseName": "フレッシャーズゼミII[20]BS",
+    "lecturer": [
+      "吉田亘(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "B21002",
+    "courseName": "無機化学（2024年度入学者用）",
+    "lecturer": [
+      "柴田雅史(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "B21203",
+    "courseName": "有機化学I[1]BS（2024年度入学者用）",
+    "lecturer": [
+      "加藤輝(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "B21204",
+    "courseName": "有機化学I[2]BS（2024年度入学者用）",
+    "lecturer": [
+      "藤沢章雄(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "B22302",
+    "courseName": "生理学（2024年度入学者用）",
+    "lecturer": [
+      "村上優子(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  }
+]

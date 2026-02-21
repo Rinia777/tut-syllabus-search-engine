@@ -1,0 +1,2912 @@
+[
+  {
+    "lectureCode": "GE100301",
+    "courseName": "ロボット設計特論",
+    "lecturer": [
+      "福島E文彦(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE100401",
+    "courseName": "ヒューマノイドロボット概論",
+    "lecturer": [
+      "関口暁宣(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "研究棟Ａ５０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE100501",
+    "courseName": "アドバンスト制御特論",
+    "lecturer": [
+      "余錦華(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE100601",
+    "courseName": "材料プロセス工学特論",
+    "lecturer": [
+      "古井光明(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE100701",
+    "courseName": "模型実験特論",
+    "lecturer": [
+      "三田俊裕(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE100801",
+    "courseName": "レーザー工学特論",
+    "lecturer": [
+      "大久保友雅(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE101001",
+    "courseName": "最適化概論",
+    "lecturer": [
+      "黒川弘章(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE101101",
+    "courseName": "IoTデバイスとセンサー技術概論",
+    "lecturer": [
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE101301",
+    "courseName": "サステイナブルデバイス工学特論",
+    "lecturer": [
+      "前田就彦(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE101401",
+    "courseName": "電力システム過渡現象特論",
+    "lecturer": [
+      "新海健(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE101501",
+    "courseName": "先端電気電子材料工学特論",
+    "lecturer": [
+      "木村康男(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE101701",
+    "courseName": "物理有機化学概論",
+    "lecturer": [
+      "片桐利真(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE101801",
+    "courseName": "表面科学概論",
+    "lecturer": [
+      "西尾和之(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE101901",
+    "courseName": "生体分子化学概論",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE102001",
+    "courseName": "高分子材料特論",
+    "lecturer": [
+      "山下俊(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE102101",
+    "courseName": "触媒化学特論",
+    "lecturer": [
+      "原賢二(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE102201",
+    "courseName": "有機合成化学特論",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE102301",
+    "courseName": "錯体化学特論",
+    "lecturer": [
+      "森本樹(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE102501",
+    "courseName": "メカトロニクス特論",
+    "lecturer": [
+      "上野祐樹(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE102601",
+    "courseName": "人間共存型システム特論",
+    "lecturer": [
+      "禹珍碩(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "研究棟Ａ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE102801",
+    "courseName": "超分子化学特論",
+    "lecturer": [
+      "入谷康平(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE102901",
+    "courseName": "無機ナノ材料工学特論",
+    "lecturer": [
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE103001",
+    "courseName": "サステイナブル工学特別講義I",
+    "lecturer": [
+      "古井光明(工学部機械工学科)",
+      "荒川貴博(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GE103201",
+    "courseName": "バイオ計測工学特論",
+    "lecturer": [
+      "荒川貴博(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE103301",
+    "courseName": "生物流体力学特論",
+    "lecturer": [
+      "野田龍介(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE103401",
+    "courseName": "ナノ電子デバイス工学特論",
+    "lecturer": [
+      "中払周(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GE103701",
+    "courseName": "サステイナブル工学先端特論",
+    "lecturer": [
+      "古井光明(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB10101",
+    "courseName": "化学生物工学特論",
+    "lecturer": [
+      "加藤輝(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB10301",
+    "courseName": "材料化学特論",
+    "lecturer": [
+      "伊澤千尋(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB10401",
+    "courseName": "分子遺伝学特論",
+    "lecturer": [
+      "村上優子(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB10501",
+    "courseName": "ゲノム生物学特論",
+    "lecturer": [
+      "西良太郎(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB10701",
+    "courseName": "レドックスバイオロジー特論",
+    "lecturer": [
+      "加柴美里(教養学環)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB10801",
+    "courseName": "分子腫瘍学特論",
+    "lecturer": [
+      "岡田麻衣子(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11001",
+    "courseName": "ゲノム機能解析学特論",
+    "lecturer": [
+      "佐藤淳(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11101",
+    "courseName": "核酸工学特論",
+    "lecturer": [
+      "吉田亘(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11301",
+    "courseName": "発生・細胞工学特論",
+    "lecturer": [
+      "杉山友康(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB11401",
+    "courseName": "分子生物学特論",
+    "lecturer": [
+      "矢野和義(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11501",
+    "courseName": "環境バイオセンシング特論",
+    "lecturer": [
+      "秋元卓央(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB11601",
+    "courseName": "環境マネジメント特論",
+    "lecturer": [
+      "浦瀬太郎(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB11701",
+    "courseName": "バイオレメディエーション特論",
+    "lecturer": [
+      "多田雄一(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11801",
+    "courseName": "環境微生物学特論",
+    "lecturer": [
+      "松井徹(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB11901",
+    "courseName": "バイオインフォマティクス特論",
+    "lecturer": [
+      "土井晃一郎(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB12001",
+    "courseName": "ヘルスケア工学特論",
+    "lecturer": [
+      "横山憲二(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB12101",
+    "courseName": "化粧品科学特論",
+    "lecturer": [
+      "前田憲寿(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB12201",
+    "courseName": "化粧品原料化学特論",
+    "lecturer": [
+      "藤沢章雄(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB12301",
+    "courseName": "化粧品設計学特論",
+    "lecturer": [
+      "柴田雅史(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB12401",
+    "courseName": "毛髪科学特論",
+    "lecturer": [
+      "岩渕徳郎(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB12501",
+    "courseName": "応用微生物学特論",
+    "lecturer": [
+      "西野智彦(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB12701",
+    "courseName": "アンチエイジングフード特論",
+    "lecturer": [
+      "佐藤拓己(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB13001",
+    "courseName": "皮膚科学特論",
+    "lecturer": [
+      "松井毅(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB13101",
+    "courseName": "食品加工学特論",
+    "lecturer": [
+      "関洋子(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB13301",
+    "courseName": "衛生学特論",
+    "lecturer": [
+      "後藤早希(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB13401",
+    "courseName": "発酵食品学特論",
+    "lecturer": [
+      "中村知世(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB13501",
+    "courseName": "食品産業学特論",
+    "lecturer": [
+      "安川然太(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB13601",
+    "courseName": "皮膚生理学特論",
+    "lecturer": [
+      "吉田雅紀(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGB13701",
+    "courseName": "食品分析化学特論",
+    "lecturer": [
+      "永井利治(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGB13801",
+    "courseName": "酵素学特論",
+    "lecturer": [
+      "木村将大(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC10101",
+    "courseName": "ウェアラブルコンピュータ",
+    "lecturer": [
+      "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC10401",
+    "courseName": "音声言語情報処理",
+    "lecturer": [
+      "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC10601",
+    "courseName": "画像処理技法",
+    "lecturer": [
+      "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０５"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC10801",
+    "courseName": "感性評価技法",
+    "lecturer": [
+      "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC11201",
+    "courseName": "コンピュータビジョン",
+    "lecturer": [
+      "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC11301",
+    "courseName": "視覚認知機構",
+    "lecturer": [
+      "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC11401",
+    "courseName": "システムズエンジニアリング",
+    "lecturer": [
+      "細野繁(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC11501",
+    "courseName": "情報計測システム工学",
+    "lecturer": [
+      "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC11601",
+    "courseName": "情報セキュリティ応用",
+    "lecturer": [
+      "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC11801",
+    "courseName": "数値計算技術",
+    "lecturer": [
+      "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC11901",
+    "courseName": "セキュリティシステム",
+    "lecturer": [
+      "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC12101",
+    "courseName": "データサイエンス特論",
+    "lecturer": [
+      "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC12401",
+    "courseName": "ニューロコンピューティング",
+    "lecturer": [
+      "長名優子(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC12601",
+    "courseName": "符号理論と信号処理",
+    "lecturer": [
+      "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC12701",
+    "courseName": "分散システム",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC13101",
+    "courseName": "知能数理特論",
+    "lecturer": [
+      "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC13201",
+    "courseName": "人間動作解析特論",
+    "lecturer": [
+      "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC13301",
+    "courseName": "常微分方程式の数値解法",
+    "lecturer": [
+      "山元進(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC13401",
+    "courseName": "企業価値評価",
+    "lecturer": [
+      "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０７"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC13501",
+    "courseName": "数理言語学",
+    "lecturer": [
+      "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC13601",
+    "courseName": "ビッグデータ工学特論",
+    "lecturer": [
+      "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGC13701",
+    "courseName": "ソフトウェア設計技法",
+    "lecturer": [
+      "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC13801",
+    "courseName": "数理最適化入門",
+    "lecturer": [
+      "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義棟Ａ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGC70101",
+    "courseName": "創成プロジェクト",
+    "lecturer": [
+      "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGM10201",
+    "courseName": "プロシージャルアニメーション特論",
+    "lecturer": [
+      "菊池司(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10301",
+    "courseName": "先端ゲームデザイン特論",
+    "lecturer": [
+      "三上浩司(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10401",
+    "courseName": "音楽サウンド制作特論",
+    "lecturer": [
+      "伊藤謙一郎(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10601",
+    "courseName": "コンピュータビジョンテクノロジー特論",
+    "lecturer": [
+      "椿郁子(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10701",
+    "courseName": "コンピュータビジュアリゼーション特論",
+    "lecturer": [
+      "竹島由里子(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10801",
+    "courseName": "リアルタイムグラフィックス特論",
+    "lecturer": [
+      "渡辺大地(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM10901",
+    "courseName": "実世界メディアテクノロジー特論",
+    "lecturer": [
+      "羽田久一(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM11001",
+    "courseName": "先端音声処理特論",
+    "lecturer": [
+      "大淵康成(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM11501",
+    "courseName": "ソーシャルデザイン特論",
+    "lecturer": [
+      "飯沼瑞穂(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM11801",
+    "courseName": "マルチモーダル・コミュニケーション特論",
+    "lecturer": [
+      "榎本美香(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12001",
+    "courseName": "メディアネットワーク特論",
+    "lecturer": [
+      "寺澤卓也(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12101",
+    "courseName": "数理最適化特論",
+    "lecturer": [
+      "松永信介(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12301",
+    "courseName": "アンバサダーマーケティング特論",
+    "lecturer": [
+      "藤崎実(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火5"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12401",
+    "courseName": "メディアビジネス特論",
+    "lecturer": [
+      "森川美幸(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "GGM12501",
+    "courseName": "演出デザイン特論",
+    "lecturer": [
+      "兼松祥央(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12601",
+    "courseName": "Webアプリケーション技術特論",
+    "lecturer": [
+      "戀津魁(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金4"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12701",
+    "courseName": "アイデアの抽象化と適用",
+    "lecturer": [
+      "太田高志(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12801",
+    "courseName": "エスノメソドロジー・会話分析特論",
+    "lecturer": [
+      "山崎晶子(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM12901",
+    "courseName": "自然言語処理特論",
+    "lecturer": [
+      "松吉俊(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM13101",
+    "courseName": "エルゴノミクスデザイン特論",
+    "lecturer": [
+      "盛川浩志(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM13201",
+    "courseName": "インタフェース・デザイン特論",
+    "lecturer": [
+      "加藤邦拓(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM13301",
+    "courseName": "ビジュアルコンピューティング特論",
+    "lecturer": [
+      "ノスンタク(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGM13401",
+    "courseName": "人工知能活用特論",
+    "lecturer": [
+      "藤澤公也(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGY00101",
+    "courseName": "アド×テック特論",
+    "lecturer": [
+      "進藤美希(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火4"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "GGY00201",
+    "courseName": "ビジネスシミュレーション特論",
+    "lecturer": [
+      "榊俊吾(メディア学部メディア学科)"
+    ],
+    "regularOrIntensive": "専門科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+    "targetGrade": [
+      "1年",
+      "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  }
+]
