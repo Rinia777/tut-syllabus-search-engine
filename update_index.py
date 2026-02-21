@@ -112,72 +112,20 @@ def fetch_and_index():
         dept_dir = os.path.join(API_DIR, campus, level, dept_code)
         os.makedirs(dept_dir, exist_ok=True)
 
-        dept_info = output_dept(dept_dir, dept_code, entries)
+        write_json(os.path.join(dept_dir, "all.json"), entries)
+        dept_info = {"code": dept_code, "count": len(entries)}
         campus_meta.setdefault(campus, {}).setdefault(level, []).append(dept_info)
+        print(f"  {dept_code}: {len(entries)} entries")
 
     # departments.json（全体のメタデータ）
     write_json(os.path.join(API_DIR, "departments.json"), campus_meta)
     print(f"\nDone! {len(all_entries)} total entries, {len(dept_data)} departments")
 
 
-def output_dept(dept_dir, dept_code, entries):
-    """学部ディレクトリ内のファイルを出力し、メタデータを返す"""
-    # all.json
-    write_json(os.path.join(dept_dir, "all.json"), entries)
-
-    # ── 軸1: 年度 → 学期 → 学年 ──
-    year_semester_data = {}
-    for entry in entries:
-        year, semester = parse_course_start(entry.get("courseStart", ""))
-        year_semester_data.setdefault(year, {}).setdefault(semester, []).append(entry)
-
-    for year, semesters in sorted(year_semester_data.items()):
-        year_dir = os.path.join(dept_dir, year)
-        os.makedirs(year_dir, exist_ok=True)
-        for semester, sem_entries in sorted(semesters.items()):
-            sem_dir = os.path.join(year_dir, semester)
-            os.makedirs(sem_dir, exist_ok=True)
-            write_json(os.path.join(sem_dir, "all.json"), sem_entries)
-
-            grade_data = {}
-            for e in sem_entries:
-                for g in e.get("targetGrade", ["other"]):
-                    grade_data.setdefault(g, []).append(e)
-            for grade, g_entries in sorted(grade_data.items()):
-                write_json(os.path.join(sem_dir, f"{grade}.json"), g_entries)
-
-    # ── 軸2: 科目区分 (regularOrIntensive) ──
-    roi_dir = os.path.join(dept_dir, "regularOrIntensive")
-    os.makedirs(roi_dir, exist_ok=True)
-    roi_data = {}
-    for entry in entries:
-        roi = entry.get("regularOrIntensive", "other")
-        roi_data.setdefault(roi, []).append(entry)
-    for roi, roi_entries in sorted(roi_data.items()):
-        safe_roi = roi.replace("/", "_").replace("\\", "_")
-        write_json(os.path.join(roi_dir, f"{safe_roi}.json"), roi_entries)
-
-    dept_info = {
-        "code": dept_code,
-        "count": len(entries),
-        "regularOrIntensive": sorted(roi_data.keys()),
-    }
-    print(f"  {dept_code}: {len(entries)} entries")
-    return dept_info
-
-
 def write_json(path, data):
     """JSON ファイルを書き出す"""
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
-
-def parse_course_start(course_start):
-    """'2025年度前期' → ('2025', '前期') にパースする"""
-    match = re.match(r"(\d+)年度(前期|後期)", course_start)
-    if match:
-        return match.group(1), match.group(2)
-    return "other", "other"
 
 
 if __name__ == "__main__":

@@ -82,15 +82,9 @@ GitHub の Raw URL 経由で JSON を取得できます。
 | `api/all.json` | 全講義データ（同内容） |
 | `api/departments.json` | キャンパス・課程・学部メタデータ |
 | `api/{campus}/{level}/{dept}/all.json` | 学部の全講義 |
-| `api/{campus}/{level}/{dept}/{year}/{semester}/all.json` | 学部 × 年度 × 学期 |
-| `api/{campus}/{level}/{dept}/{year}/{semester}/{grade}.json` | 学部 × 年度 × 学期 × 学年 |
-| `api/{campus}/{level}/{dept}/regularOrIntensive/{type}.json` | 学部 × 科目区分 |
 
 > - `{campus}`: `hachioji`（八王子）, `kamata`（蒲田）
 > - `{level}`: `university`（大学）, `graduate`（大学院）
-> - `{year}`: `2024`, `2025` など
-> - `{semester}`: `前期`, `後期`
-> - `{grade}`: `1年`, `2年`, `3年`, `4年`
 
 ### 学部コード
 
@@ -114,17 +108,25 @@ GitHub の Raw URL 経由で JSON を取得できます。
 | 大学 | `X3` | 教養学環 |
 | 大学院 | `GH` | 大学院 |
 
-### 使用例 (JavaScript)
+### 使用例 (Swift)
 
-```javascript
+```swift
+let base = "https://raw.githubusercontent.com/<user>/<repo>/main"
+
 // メタデータ取得
-const meta = await fetch(".../api/departments.json").then(r => r.json());
+let metaURL = URL(string: "\(base)/api/departments.json")!
+let (metaData, _) = try await URLSession.shared.data(from: metaURL)
+let meta = try JSONDecoder().decode([String: [String: [DeptInfo]]].self, from: metaData)
 
-// CS学部 2025年度 前期 の 2年生向け講義を取得
-const cs2 = await fetch(".../api/hachioji/university/CS/2025/前期/2年.json").then(r => r.json());
+// MS学部の全講義を取得
+let msURL = URL(string: "\(base)/api/hachioji/university/MS/all.json")!
+let (msData, _) = try await URLSession.shared.data(from: msURL)
+let ms = try JSONDecoder().decode([Lecture].self, from: msData)
 
-// 蒲田キャンパス デザイン学部の専門科目を取得
-const dsPro = await fetch(".../api/kamata/university/DS/regularOrIntensive/専門科目.json").then(r => r.json());
+// 月1の講義だけフィルタ
+let monday1st = ms.filter { lecture in
+    lecture.searchTimes.contains { $0.day == "月" && $0.period == 1 }
+}
 ```
 
 ### レスポンス

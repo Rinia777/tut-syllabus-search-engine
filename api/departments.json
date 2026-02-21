@@ -3,60 +3,29 @@
     "university": [
       {
         "code": "BT",
-        "count": 240,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "専門基礎教育科目",
-          "専門教育科目",
-          "教養教育科目"
-        ]
+        "count": 240
       },
       {
         "code": "CS",
-        "count": 338,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "専門基礎教育科目",
-          "専門教育科目",
-          "教養教育科目"
-        ]
+        "count": 338
       },
       {
         "code": "ES",
-        "count": 476,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "専門教育科目",
-          "教養教育科目"
-        ]
+        "count": 476
       },
       {
         "code": "MS",
-        "count": 1053,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "専門基礎教育科目",
-          "専門教育科目",
-          "教養教育科目"
-        ]
+        "count": 1053
       },
       {
         "code": "X1",
-        "count": 764,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "教養教育科目"
-        ]
+        "count": 764
       }
     ],
     "graduate": [
       {
         "code": "GF",
-        "count": 14,
-        "regularOrIntensive": [
-          "専門科目",
-          "研究・プロジェクト科目"
-        ]
+        "count": 14
       }
     ]
   },
@@ -64,43 +33,21 @@
     "university": [
       {
         "code": "DS",
-        "count": 213,
-        "regularOrIntensive": [
-          "実学基礎科目",
-          "専門教育科目",
-          "教養教育科目"
-        ]
+        "count": 213
       },
       {
         "code": "HS",
-        "count": 690,
-        "regularOrIntensive": [
-          "他学部・他大学科目",
-          "基礎教育科目",
-          "専門基礎科目",
-          "専門科目"
-        ]
+        "count": 690
       },
       {
         "code": "X3",
-        "count": 686,
-        "regularOrIntensive": [
-          "ジェネリックスキル科目",
-          "専門科目",
-          "研究・プロジェクト科目",
-          "総合科目"
-        ]
+        "count": 686
       }
     ],
     "graduate": [
       {
         "code": "GH",
-        "count": 25,
-        "regularOrIntensive": [
-          "専門基礎科目",
-          "専門領域科目",
-          "研究科目"
-        ]
+        "count": 25
       }
     ]
   }
