@@ -40,9 +40,8 @@ def fetch_and_index():
     res = requests.get(SOURCE_ZIP_URL)
     res.raise_for_status()
 
-# 学部コードごとのデータを格納
+    # 学部コードごとのデータを格納
     dept_data = {}
-    all_entries = []
 
     # 統合する学部コードのマッピング
     DEPT_MERGE = {
@@ -79,10 +78,18 @@ def fetch_and_index():
             if (i + 1) % 500 == 0:
                 print(f"Progress: {i + 1}/{len(json_files)}")
 
-    # all のデータを search_index.json として出力（後方互換）
-    all_entries = dept_data.pop("all", [])
-    write_json(OUTPUT_FILE, all_entries)
-    print(f"Created {OUTPUT_FILE} ({len(all_entries)} entries)")
+    # all のデータ（新規ダウンロード分）
+    new_all = dept_data.pop("all", [])
+
+    # 最新年度を特定
+    years = set()
+    for e in new_all:
+        y = get_year(e.get("courseStart", ""))
+        if y:
+            years.add(y)
+    latest_year = max(years) if years else None
+    print(f"Latest year in new data: {latest_year}")
+    print(f"All years in new data: {sorted(years)}")
 
     # キャンパス → 課程 → 学部 のマッピング
     CAMPUS_MAP = {
@@ -104,28 +111,60 @@ def fetch_and_index():
 
     # api/ ディレクトリ構造を出力
     os.makedirs(API_DIR, exist_ok=True)
-    write_json(os.path.join(API_DIR, "all.json"), all_entries)
 
-    campus_meta = {}  # {campus: {level: [dept_info]}}
-    for dept_code, entries in sorted(dept_data.items()):
+    all_merged = []
+    campus_meta = {}
+
+    for dept_code, new_entries in sorted(dept_data.items()):
         campus, level = CAMPUS_MAP.get(dept_code, ("other", "other"))
         dept_dir = os.path.join(API_DIR, campus, level, dept_code)
         os.makedirs(dept_dir, exist_ok=True)
 
-        write_json(os.path.join(dept_dir, "all.json"), entries)
-        dept_info = {"code": dept_code, "count": len(entries)}
-        campus_meta.setdefault(campus, {}).setdefault(level, []).append(dept_info)
-        print(f"  {dept_code}: {len(entries)} entries")
+        existing_path = os.path.join(dept_dir, "all.json")
+        existing = load_existing(existing_path)
 
-    # departments.json（全体のメタデータ）
+        if existing:
+            # 増分更新: 既存から古い年度を保持 + 新データから最新年度のみ採用
+            old_entries = [e for e in existing if get_year(e.get("courseStart", "")) != latest_year]
+            latest_entries = [e for e in new_entries if get_year(e.get("courseStart", "")) == latest_year]
+            merged = old_entries + latest_entries
+            print(f"  {dept_code}: {len(old_entries)} old + {len(latest_entries)} new = {len(merged)} total")
+        else:
+            # 初回: 全年度のデータを保存
+            merged = new_entries
+            print(f"  {dept_code}: {len(merged)} entries (initial)")
+
+        write_json(existing_path, merged)
+        all_merged.extend(merged)
+
+        dept_info = {"code": dept_code, "count": len(merged)}
+        campus_meta.setdefault(campus, {}).setdefault(level, []).append(dept_info)
+
+    # search_index.json と api/all.json を更新
+    write_json(OUTPUT_FILE, all_merged)
+    write_json(os.path.join(API_DIR, "all.json"), all_merged)
     write_json(os.path.join(API_DIR, "departments.json"), campus_meta)
-    print(f"\nDone! {len(all_entries)} total entries, {len(dept_data)} departments")
+    print(f"\nDone! {len(all_merged)} total entries, {len(dept_data)} departments")
 
 
 def write_json(path, data):
     """JSON ファイルを書き出す"""
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def get_year(course_start):
+    """'2025年度前期' → '2025' を返す"""
+    match = re.match(r"(\d+)年度", course_start)
+    return match.group(1) if match else None
+
+
+def load_existing(path):
+    """既存の JSON ファイルを読み込む。ファイルがなければ空リストを返す"""
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
 
 
 if __name__ == "__main__":

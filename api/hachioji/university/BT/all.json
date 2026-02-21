@@ -1,5 +1,421 @@
 [
   {
+    "lectureCode": "11050B06",
+    "courseName": "フレッシャーズゼミI[6]BS",
+    "lecturer": [
+      "杉山友康(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11050B20",
+    "courseName": "フレッシャーズゼミI[20]BS",
+    "lecturer": [
+      "吉田亘(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11051B06",
+    "courseName": "フレッシャーズゼミII[6]BS",
+    "lecturer": [
+      "杉山友康(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11051B20",
+    "courseName": "フレッシャーズゼミII[20]BS",
+    "lecturer": [
+      "吉田亘(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "B20102",
+    "courseName": "微分積分II[2]BS",
+    "lecturer": [
+      "松永栄一(兼任講師)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "B20103",
+    "courseName": "微分積分II[3]BS",
+    "lecturer": [
+      "秋元卓央(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ａ３０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "B21002",
+    "courseName": "無機化学（2024年度入学者用）",
+    "lecturer": [
+      "柴田雅史(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "B21203",
+    "courseName": "有機化学I[1]BS（2024年度入学者用）",
+    "lecturer": [
+      "加藤輝(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "B21204",
+    "courseName": "有機化学I[2]BS（2024年度入学者用）",
+    "lecturer": [
+      "藤沢章雄(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "B22302",
+    "courseName": "生理学（2024年度入学者用）",
+    "lecturer": [
+      "村上優子(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "1年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "B22501",
+    "courseName": "熱力学",
+    "lecturer": [
+      "梶原一人(兼任講師)"
+    ],
+    "regularOrIntensive": "専門基礎教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ１０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "ES00201",
+    "courseName": "創成課題II[BS]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "ES00224",
+    "courseName": "創成課題II[BS]",
+    "lecturer": [
+      "佐藤拓己(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "ES00227",
+    "courseName": "創成課題II[BS]",
+    "lecturer": [
+      "岩渕徳郎(応用生物学部応用生物学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水5"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "メディアホール"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "ES00350",
+    "courseName": "卒業課題I[後期]",
+    "lecturer": [
+      "各教員(所属なし)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "応用生物学部応用生物学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
     "lectureCode": "11040B1",
     "courseName": "情報リテラシー[BS]",
     "lecturer": [
@@ -383,32 +799,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "11050B06",
-    "courseName": "フレッシャーズゼミI[6]BS",
-    "lecturer": [
-      "杉山友康(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
-  },
-  {
     "lectureCode": "11050B07",
     "courseName": "フレッシャーズゼミI[6]BS",
     "lecturer": [
@@ -749,32 +1139,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "11050B20",
-    "courseName": "フレッシャーズゼミI[20]BS",
-    "lecturer": [
-      "吉田亘(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
-  },
-  {
     "lectureCode": "11051B01",
     "courseName": "フレッシャーズゼミII[1]BS",
     "lecturer": [
@@ -902,32 +1266,6 @@
       "片柳研究所Ｅ２０１"
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "11051B06",
-    "courseName": "フレッシャーズゼミII[6]BS",
-    "lecturer": [
-      "杉山友康(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": []
   },
   {
@@ -1268,32 +1606,6 @@
       "講義実験棟１０４"
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "11051B20",
-    "courseName": "フレッシャーズゼミII[20]BS",
-    "lecturer": [
-      "吉田亘(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": []
   },
   {
@@ -2908,66 +3220,6 @@
     ]
   },
   {
-    "lectureCode": "B20102",
-    "courseName": "微分積分II[2]BS",
-    "lecturer": [
-      "松永栄一(兼任講師)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "水3"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "講義棟Ａ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 3
-      }
-    ]
-  },
-  {
-    "lectureCode": "B20103",
-    "courseName": "微分積分II[3]BS",
-    "lecturer": [
-      "秋元卓央(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "水3"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "講義棟Ａ３０４"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "B20201",
     "courseName": "統計解析[1]BS",
     "lecturer": [
@@ -3220,34 +3472,6 @@
     ]
   },
   {
-    "lectureCode": "B21002",
-    "courseName": "無機化学（2024年度入学者用）",
-    "lecturer": [
-      "柴田雅史(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火3"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "B21101",
     "courseName": "分析化学",
     "lecturer": [
@@ -3332,62 +3556,6 @@
       "片柳研究所Ｅ４０３"
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "B21203",
-    "courseName": "有機化学I[1]BS（2024年度入学者用）",
-    "lecturer": [
-      "加藤輝(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "木2"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "B21204",
-    "courseName": "有機化学I[2]BS（2024年度入学者用）",
-    "lecturer": [
-      "藤沢章雄(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "木2"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": [
       {
         "day": "木",
@@ -3739,34 +3907,6 @@
     ]
   },
   {
-    "lectureCode": "B22302",
-    "courseName": "生理学（2024年度入学者用）",
-    "lecturer": [
-      "村上優子(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "金3"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "1年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "B22401",
     "courseName": "物理化学",
     "lecturer": [
@@ -3792,36 +3932,6 @@
     "search_times": [
       {
         "day": "金",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "B22501",
-    "courseName": "熱力学",
-    "lecturer": [
-      "梶原一人(兼任講師)"
-    ],
-    "regularOrIntensive": "専門基礎教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火2"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ１０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
         "period": 2
       }
     ]
@@ -5156,35 +5266,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "ES00201",
-    "courseName": "創成課題II[BS]",
-    "lecturer": [
-      "各教員(所属なし)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水5"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "メディアホール"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 5
-      }
-    ]
-  },
-  {
     "lectureCode": "ES00202",
     "courseName": "創成課題II[BS]",
     "lecturer": [
@@ -5678,35 +5759,6 @@
     ]
   },
   {
-    "lectureCode": "ES00224",
-    "courseName": "創成課題II[BS]",
-    "lecturer": [
-      "佐藤拓己(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水5"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "メディアホール"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 5
-      }
-    ]
-  },
-  {
     "lectureCode": "ES00225",
     "courseName": "創成課題II[BS]",
     "lecturer": [
@@ -5728,35 +5780,6 @@
       "メディアホール"
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "ES00227",
-    "courseName": "創成課題II[BS]",
-    "lecturer": [
-      "岩渕徳郎(応用生物学部応用生物学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水5"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "メディアホール"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": [
       {
         "day": "水",
@@ -6534,29 +6557,6 @@
       ""
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "ES00350",
-    "courseName": "卒業課題I[後期]",
-    "lecturer": [
-      "各教員(所属なし)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "応用生物学部応用生物学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
     "search_times": []
   },
   {

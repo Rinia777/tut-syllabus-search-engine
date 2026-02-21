@@ -1,5 +1,1392 @@
 [
   {
+    "lectureCode": "K500602",
+    "courseName": "安全工学",
+    "lecturer": [
+      "片桐利真(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木5"
+    ],
+    "targetDepartment": "工学部機械工学科,工学部応用化学科,工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "K000401",
+    "courseName": "コーオプ演習II[機]",
+    "lecturer": [
+      "大久保友雅(工学部機械工学科)",
+      "戸井朗人(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木3"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟１０１",
+      "講義実験棟１０２",
+      "講義実験棟１０３",
+      "講義実験棟１０４",
+      "講義実験棟２０１",
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K001501",
+    "courseName": "実践工学プロジェクト演習II(電気自動車(EV)開発プロジェクト)",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)",
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K500402",
+    "courseName": "線形代数(M)【再履修クラス】",
+    "lecturer": [
+      "関口暁宣(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金3"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K501301",
+    "courseName": "電気電子回路II",
+    "lecturer": [
+      "上野祐樹(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月2"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K5020011",
+    "courseName": "機械力学",
+    "lecturer": [
+      "福島E文彦(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ４０３"
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K503801",
+    "courseName": "マイクロコントローラ実習[3QT]",
+    "lecturer": [
+      "禹珍碩(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K503802",
+    "courseName": "マイクロコントローラ実習[3QF]",
+    "lecturer": [
+      "禹珍碩(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K503803",
+    "courseName": "マイクロコントローラ実習[4QT]",
+    "lecturer": [
+      "禹珍碩(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K503804",
+    "courseName": "マイクロコントローラ実習[4QF]",
+    "lecturer": [
+      "禹珍碩(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K504210",
+    "courseName": "卒業課題I",
+    "lecturer": [
+      "野田龍介(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K5043061",
+    "courseName": "卒業課題II[前期]",
+    "lecturer": [
+      "関口暁宣(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部機械工学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/09",
+    "search_times": []
+  },
+  {
+    "lectureCode": "11079K33",
+    "courseName": "フレッシャーズゼミ[3]",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０３"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "11079K38",
+    "courseName": "フレッシャーズゼミ[8]",
+    "lecturer": [
+      "坪川宏(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟３０６"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K000431",
+    "courseName": "コーオプ演習II[電]",
+    "lecturer": [
+      "坪川宏(工学部電気電子工学科)",
+      "戸井朗人(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０１",
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K001502",
+    "courseName": "実践工学プロジェクト演習II(電気自動車(EV)開発プロジェクト)",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)",
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K601103",
+    "courseName": "プログラミング基礎(E)",
+    "lecturer": [
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "金3",
+      "金4"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟２０１",
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "K601104",
+    "courseName": "プログラミング基礎(E)",
+    "lecturer": [
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "金",
+      "金2"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K603301",
+    "courseName": "システム工学",
+    "lecturer": [
+      "中払周(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義実験棟４０３"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K605303",
+    "courseName": "創成課題[3]",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月2",
+      "金2"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K605403",
+    "courseName": "卒業課題I",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K6054031",
+    "courseName": "卒業課題I[後期]",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K605503",
+    "courseName": "卒業課題II",
+    "lecturer": [
+      "高木茂行(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K605601",
+    "courseName": "電気磁気学I",
+    "lecturer": [
+      "小原翔馬(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火3"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "講義棟Ｄ３０１"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K605701",
+    "courseName": "電気磁気学II",
+    "lecturer": [
+      "小原翔馬(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "研究棟Ａ５０３"
+    ],
+    "updateAt": "2024/12/02",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "11040K7",
+    "courseName": "情報リテラシー[化][2023年以前入学者]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "11040K71",
+    "courseName": "情報リテラシーI[化]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041K7",
+    "courseName": "情報リテラシー演習[化][2023年以前入学者]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "教養教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ４０２",
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041K71",
+    "courseName": "情報リテラシー演習I[化]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２",
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "11041K72",
+    "courseName": "情報リテラシー演習II[化]",
+    "lecturer": [
+      "藤田隆史(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "実学基礎科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "月4",
+      "月5"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ４０２",
+      "片柳研究所Ｅ４０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "K000471",
+    "courseName": "コーオプ演習II[化]",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)",
+      "戸井朗人(工学部機械工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木2"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "講義実験棟２０１",
+      "講義実験棟２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K001403",
+    "courseName": "実践工学プロジェクト演習I",
+    "lecturer": [
+      "天野直紀(工学部電気電子工学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K700903",
+    "courseName": "化学基礎演習[3][2023年以前入学者]",
+    "lecturer": [
+      "入谷康平(工学部応用化学科)",
+      "山下俊(工学部応用化学科)",
+      "原賢二(工学部応用化学科)",
+      "藤田隆史(工学部応用化学科)",
+      "橋本徹(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火",
+      "火2"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ１０２",
+      "片柳研究所Ｅ１０３",
+      "片柳研究所Ｅ１０４"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K701301",
+    "courseName": "有機化学I[2023年以前入学者]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "入谷康平(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火4"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "K701801",
+    "courseName": "分析化学",
+    "lecturer": [
+      "西尾和之(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火2"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K702201",
+    "courseName": "生物化学",
+    "lecturer": [
+      "須磨岡淳(工学部応用化学科)",
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K702901",
+    "courseName": "有機合成化学",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      "片柳研究所Ｅ２０１"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K703703",
+    "courseName": "有機化学演習[1Q]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K703704",
+    "courseName": "有機化学演習[2Q]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "須磨岡淳(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "火3",
+      "木3"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ]
+  },
+  {
+    "lectureCode": "K704001",
+    "courseName": "応用化学実験II",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "森本樹(工学部応用化学科)",
+      "片桐利真(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "木3",
+      "木4",
+      "木5"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 3,
+    "classroom": [
+      "片柳研究所Ｅ２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "lectureCode": "K704208",
+    "courseName": "創成課題[8]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "月5",
+      "金2"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ]
+  },
+  {
+    "lectureCode": "K704308",
+    "courseName": "卒業課題I",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度前期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K7043081",
+    "courseName": "卒業課題I[後期]",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K704408",
+    "courseName": "卒業課題II",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "実験科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "他"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "4年"
+    ],
+    "numberOfCredits": 4,
+    "classroom": [
+      ""
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": []
+  },
+  {
+    "lectureCode": "K70621",
+    "courseName": "有機化学2",
+    "lecturer": [
+      "上野聡(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "講義科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "火4"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ３０３"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "lectureCode": "K710501",
+    "courseName": "有機化学演習I",
+    "lecturer": [
+      "上野聡(工学部応用化学科)",
+      "入谷康平(工学部応用化学科)"
+    ],
+    "regularOrIntensive": "専門教育科目",
+    "courseType": "演習科目",
+    "courseStart": "2024年度後期",
+    "classPeriod": [
+      "水2"
+    ],
+    "targetDepartment": "工学部応用化学科",
+    "targetGrade": [
+      "1年",
+      "2年",
+      "3年",
+      "4年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+      "片柳研究所Ｅ２０２"
+    ],
+    "updateAt": "2024/09/13",
+    "search_times": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ]
+  },
+  {
     "lectureCode": "11042K1",
     "courseName": "数学概論[ES1]",
     "lecturer": [
@@ -429,36 +1816,6 @@
     ],
     "updateAt": "2025/03/21",
     "search_times": []
-  },
-  {
-    "lectureCode": "K500602",
-    "courseName": "安全工学",
-    "lecturer": [
-      "片桐利真(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "木5"
-    ],
-    "targetDepartment": "工学部機械工学科,工学部応用化学科,工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 5
-      }
-    ]
   },
   {
     "lectureCode": "K502401",
@@ -987,42 +2344,6 @@
       {
         "day": "水",
         "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K000401",
-    "courseName": "コーオプ演習II[機]",
-    "lecturer": [
-      "大久保友雅(工学部機械工学科)",
-      "戸井朗人(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "木3"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "講義実験棟１０１",
-      "講義実験棟１０２",
-      "講義実験棟１０３",
-      "講義実験棟１０４",
-      "講義実験棟２０１",
-      "講義実験棟２０２"
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 3
       }
     ]
   },
@@ -1634,33 +2955,6 @@
     ]
   },
   {
-    "lectureCode": "K001501",
-    "courseName": "実践工学プロジェクト演習II(電気自動車(EV)開発プロジェクト)",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)",
-      "天野直紀(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": []
-  },
-  {
     "lectureCode": "K500201",
     "courseName": "微分積分I(1Q)",
     "lecturer": [
@@ -1752,37 +3046,6 @@
     ]
   },
   {
-    "lectureCode": "K500402",
-    "courseName": "線形代数(M)【再履修クラス】",
-    "lecturer": [
-      "関口暁宣(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "金3"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "研究棟Ａ５０３"
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "K500901",
     "courseName": "微分方程式",
     "lecturer": [
@@ -1808,36 +3071,6 @@
     "search_times": [
       {
         "day": "水",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K501301",
-    "courseName": "電気電子回路II",
-    "lecturer": [
-      "上野祐樹(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月2"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "月",
         "period": 2
       }
     ]
@@ -2137,31 +3370,6 @@
         "period": 3
       }
     ]
-  },
-  {
-    "lectureCode": "K5020011",
-    "courseName": "機械力学",
-    "lecturer": [
-      "福島E文彦(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "金"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "研究棟Ａ４０３"
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": []
   },
   {
     "lectureCode": "K502101",
@@ -2691,130 +3899,6 @@
       {
         "day": "金",
         "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "K503801",
-    "courseName": "マイクロコントローラ実習[3QT]",
-    "lecturer": [
-      "禹珍碩(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火",
-      "火2"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K503802",
-    "courseName": "マイクロコントローラ実習[3QF]",
-    "lecturer": [
-      "禹珍碩(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "金",
-      "金2"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K503803",
-    "courseName": "マイクロコントローラ実習[4QT]",
-    "lecturer": [
-      "禹珍碩(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火",
-      "火2"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K503804",
-    "courseName": "マイクロコントローラ実習[4QF]",
-    "lecturer": [
-      "禹珍碩(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "金",
-      "金2"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 2
       }
     ]
   },
@@ -3752,29 +4836,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "K504210",
-    "courseName": "卒業課題I",
-    "lecturer": [
-      "野田龍介(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
-    "search_times": []
-  },
-  {
     "lectureCode": "K5042101",
     "courseName": "卒業課題I[後期]",
     "lecturer": [
@@ -4048,29 +5109,6 @@
       ""
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K5043061",
-    "courseName": "卒業課題II[前期]",
-    "lecturer": [
-      "関口暁宣(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部機械工学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/09",
     "search_times": []
   },
   {
@@ -4858,37 +5896,6 @@
     ]
   },
   {
-    "lectureCode": "11079K33",
-    "courseName": "フレッシャーズゼミ[3]",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "木2"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "講義実験棟２０３"
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 2
-      }
-    ]
-  },
-  {
     "lectureCode": "11079K34",
     "courseName": "フレッシャーズゼミ[3]",
     "lecturer": [
@@ -5005,37 +6012,6 @@
       "講義実験棟３０５"
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "11079K38",
-    "courseName": "フレッシャーズゼミ[8]",
-    "lecturer": [
-      "坪川宏(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "木2"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "講義実験棟３０６"
-    ],
-    "updateAt": "2024/12/02",
     "search_times": [
       {
         "day": "木",
@@ -5162,33 +6138,6 @@
       "講義実験棟２０２"
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K000431",
-    "courseName": "コーオプ演習II[電]",
-    "lecturer": [
-      "坪川宏(工学部電気電子工学科)",
-      "戸井朗人(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "木"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "講義実験棟２０１",
-      "講義実験棟２０２"
-    ],
-    "updateAt": "2024/12/02",
     "search_times": []
   },
   {
@@ -5718,33 +6667,6 @@
     ]
   },
   {
-    "lectureCode": "K001502",
-    "courseName": "実践工学プロジェクト演習II(電気自動車(EV)開発プロジェクト)",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)",
-      "天野直紀(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": []
-  },
-  {
     "lectureCode": "K600101",
     "courseName": "微分積分I",
     "lecturer": [
@@ -5895,74 +6817,6 @@
     ],
     "updateAt": "2025/03/21",
     "search_times": []
-  },
-  {
-    "lectureCode": "K601103",
-    "courseName": "プログラミング基礎(E)",
-    "lecturer": [
-      "天野直紀(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "金3",
-      "金4"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "講義実験棟２０１",
-      "講義実験棟２０２"
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 3
-      },
-      {
-        "day": "金",
-        "period": 4
-      }
-    ]
-  },
-  {
-    "lectureCode": "K601104",
-    "courseName": "プログラミング基礎(E)",
-    "lecturer": [
-      "天野直紀(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "金",
-      "金2"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": [
-      {
-        "day": "金",
-        "period": 2
-      }
-    ]
   },
   {
     "lectureCode": "K601201",
@@ -6608,31 +7462,6 @@
         "period": 4
       }
     ]
-  },
-  {
-    "lectureCode": "K603301",
-    "courseName": "システム工学",
-    "lecturer": [
-      "中払周(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "講義実験棟４０３"
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": []
   },
   {
     "lectureCode": "K603401",
@@ -7355,40 +8184,6 @@
     ]
   },
   {
-    "lectureCode": "K605303",
-    "courseName": "創成課題[3]",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "月2",
-      "金2"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 2
-      },
-      {
-        "day": "金",
-        "period": 2
-      }
-    ]
-  },
-  {
     "lectureCode": "K605304",
     "courseName": "創成課題[4]",
     "lecturer": [
@@ -7722,52 +8517,6 @@
       ""
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K605403",
-    "courseName": "卒業課題I",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K6054031",
-    "courseName": "卒業課題I[後期]",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/02",
     "search_times": []
   },
   {
@@ -8187,29 +8936,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "K605503",
-    "courseName": "卒業課題II",
-    "lecturer": [
-      "高木茂行(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": []
-  },
-  {
     "lectureCode": "K605504",
     "courseName": "卒業課題II",
     "lecturer": [
@@ -8511,66 +9237,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "K605601",
-    "courseName": "電気磁気学I",
-    "lecturer": [
-      "小原翔馬(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "火3"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "講義棟Ｄ３０１"
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 3
-      }
-    ]
-  },
-  {
-    "lectureCode": "K605701",
-    "courseName": "電気磁気学II",
-    "lecturer": [
-      "小原翔馬(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水3"
-    ],
-    "targetDepartment": "工学部電気電子工学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "研究棟Ａ５０３"
-    ],
-    "updateAt": "2024/12/02",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "K6059",
     "courseName": "電気数学I",
     "lecturer": [
@@ -8823,69 +9489,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "11040K7",
-    "courseName": "情報リテラシー[化][2023年以前入学者]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "藤田隆史(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "教養教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月3"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 3
-      }
-    ]
-  },
-  {
-    "lectureCode": "11040K71",
-    "courseName": "情報リテラシーI[化]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月3"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "11040K72",
     "courseName": "情報リテラシーII[化]",
     "lecturer": [
@@ -8941,118 +9544,6 @@
       "片柳研究所Ｅ４０２"
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 4
-      },
-      {
-        "day": "月",
-        "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "11041K7",
-    "courseName": "情報リテラシー演習[化][2023年以前入学者]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "藤田隆史(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "教養教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月4",
-      "月5"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ４０２",
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 4
-      },
-      {
-        "day": "月",
-        "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "11041K71",
-    "courseName": "情報リテラシー演習I[化]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月4",
-      "月5"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０２",
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 4
-      },
-      {
-        "day": "月",
-        "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "11041K72",
-    "courseName": "情報リテラシー演習II[化]",
-    "lecturer": [
-      "藤田隆史(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "実学基礎科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "月4",
-      "月5"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ４０２",
-      "片柳研究所Ｅ４０３"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": [
       {
         "day": "月",
@@ -9451,38 +9942,6 @@
       "講義実験棟２０２"
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K000471",
-    "courseName": "コーオプ演習II[化]",
-    "lecturer": [
-      "須磨岡淳(工学部応用化学科)",
-      "戸井朗人(工学部機械工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "木2"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "講義実験棟２０１",
-      "講義実験棟２０２"
-    ],
-    "updateAt": "2024/09/13",
     "search_times": [
       {
         "day": "木",
@@ -10004,32 +10463,6 @@
     ]
   },
   {
-    "lectureCode": "K001403",
-    "courseName": "実践工学プロジェクト演習I",
-    "lecturer": [
-      "天野直紀(工学部電気電子工学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
-  },
-  {
     "lectureCode": "K700101",
     "courseName": "微分積分[2023年以前入学者]",
     "lecturer": [
@@ -10204,44 +10637,6 @@
     ]
   },
   {
-    "lectureCode": "K700903",
-    "courseName": "化学基礎演習[3][2023年以前入学者]",
-    "lecturer": [
-      "入谷康平(工学部応用化学科)",
-      "山下俊(工学部応用化学科)",
-      "原賢二(工学部応用化学科)",
-      "藤田隆史(工学部応用化学科)",
-      "橋本徹(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "火",
-      "火2"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ１０２",
-      "片柳研究所Ｅ１０３",
-      "片柳研究所Ｅ１０４"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 2
-      }
-    ]
-  },
-  {
     "lectureCode": "K701001",
     "courseName": "プログラミング[2023年度以前入学者]",
     "lecturer": [
@@ -10348,38 +10743,6 @@
       },
       {
         "day": "金",
-        "period": 4
-      }
-    ]
-  },
-  {
-    "lectureCode": "K701301",
-    "courseName": "有機化学I[2023年以前入学者]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "入谷康平(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火4"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
         "period": 4
       }
     ]
@@ -10508,36 +10871,6 @@
     ]
   },
   {
-    "lectureCode": "K701801",
-    "courseName": "分析化学",
-    "lecturer": [
-      "西尾和之(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "火2"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 2
-      }
-    ]
-  },
-  {
     "lectureCode": "K701802",
     "courseName": "分析化学[2023年以前入学者]",
     "lecturer": [
@@ -10646,32 +10979,6 @@
         "period": 2
       }
     ]
-  },
-  {
-    "lectureCode": "K702201",
-    "courseName": "生物化学",
-    "lecturer": [
-      "須磨岡淳(工学部応用化学科)",
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
   },
   {
     "lectureCode": "K702401",
@@ -10817,35 +11124,6 @@
       {
         "day": "月",
         "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K702901",
-    "courseName": "有機合成化学",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水3"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      "片柳研究所Ｅ２０１"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 3
       }
     ]
   },
@@ -11059,76 +11337,6 @@
     ]
   },
   {
-    "lectureCode": "K703703",
-    "courseName": "有機化学演習[1Q]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "須磨岡淳(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "火3",
-      "木3"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ２０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 3
-      },
-      {
-        "day": "木",
-        "period": 3
-      }
-    ]
-  },
-  {
-    "lectureCode": "K703704",
-    "courseName": "有機化学演習[2Q]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "須磨岡淳(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "火3",
-      "木3"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ２０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 3
-      },
-      {
-        "day": "木",
-        "period": 3
-      }
-    ]
-  },
-  {
     "lectureCode": "K703801",
     "courseName": "物理化学演習[1Q]",
     "lecturer": [
@@ -11232,48 +11440,6 @@
       },
       {
         "day": "火",
-        "period": 5
-      }
-    ]
-  },
-  {
-    "lectureCode": "K704001",
-    "courseName": "応用化学実験II",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "森本樹(工学部応用化学科)",
-      "片桐利真(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "木3",
-      "木4",
-      "木5"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 3,
-    "classroom": [
-      "片柳研究所Ｅ２０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "木",
-        "period": 3
-      },
-      {
-        "day": "木",
-        "period": 4
-      },
-      {
-        "day": "木",
         "period": 5
       }
     ]
@@ -11587,40 +11753,6 @@
       ""
     ],
     "updateAt": "2025/03/21",
-    "search_times": [
-      {
-        "day": "月",
-        "period": 5
-      },
-      {
-        "day": "金",
-        "period": 2
-      }
-    ]
-  },
-  {
-    "lectureCode": "K704208",
-    "courseName": "創成課題[8]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "月5",
-      "金2"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 2,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
     "search_times": [
       {
         "day": "月",
@@ -11989,52 +12121,6 @@
     "search_times": []
   },
   {
-    "lectureCode": "K704308",
-    "courseName": "卒業課題I",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度前期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K7043081",
-    "courseName": "卒業課題I[後期]",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": []
-  },
-  {
     "lectureCode": "K704309",
     "courseName": "卒業課題I",
     "lecturer": [
@@ -12400,29 +12486,6 @@
       ""
     ],
     "updateAt": "2025/03/21",
-    "search_times": []
-  },
-  {
-    "lectureCode": "K704408",
-    "courseName": "卒業課題II",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "実験科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "他"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "4年"
-    ],
-    "numberOfCredits": 4,
-    "classroom": [
-      ""
-    ],
-    "updateAt": "2024/09/13",
     "search_times": []
   },
   {
@@ -13008,37 +13071,6 @@
     ],
     "updateAt": "2025/03/21",
     "search_times": []
-  },
-  {
-    "lectureCode": "K70621",
-    "courseName": "有機化学2",
-    "lecturer": [
-      "上野聡(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "講義科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "火4"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ３０３"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "火",
-        "period": 4
-      }
-    ]
   },
   {
     "lectureCode": "K70631",
@@ -13878,38 +13910,6 @@
       {
         "day": "火",
         "period": 4
-      }
-    ]
-  },
-  {
-    "lectureCode": "K710501",
-    "courseName": "有機化学演習I",
-    "lecturer": [
-      "上野聡(工学部応用化学科)",
-      "入谷康平(工学部応用化学科)"
-    ],
-    "regularOrIntensive": "専門教育科目",
-    "courseType": "演習科目",
-    "courseStart": "2024年度後期",
-    "classPeriod": [
-      "水2"
-    ],
-    "targetDepartment": "工学部応用化学科",
-    "targetGrade": [
-      "1年",
-      "2年",
-      "3年",
-      "4年"
-    ],
-    "numberOfCredits": 1,
-    "classroom": [
-      "片柳研究所Ｅ２０２"
-    ],
-    "updateAt": "2024/09/13",
-    "search_times": [
-      {
-        "day": "水",
-        "period": 2
       }
     ]
   },
